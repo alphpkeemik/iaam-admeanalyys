@@ -1,4 +1,3 @@
-from tkinter.ttk import Separator
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -14,7 +13,7 @@ df['weight'] = pd.to_numeric(df['weight'])
 
 
 df = df.assign(fuel_consumption=lambda x: 1/x.mpg * gallon / mile * 100)
-print(df)
-df.plot("weight", "fuel_consumption", kind='scatter')
+ax = df.plot.scatter("weight", "fuel_consumption", colorbar=True)
+df.plot.line("weight", "fuel_consumption", ax=ax, color="#c4daff", linewidth=0.5)
 
 plt.show()
