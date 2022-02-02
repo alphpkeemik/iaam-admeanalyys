@@ -1,458 +1,801 @@
-﻿registered;selected;event;name;lang;nonmusical;place;activesinceyear;activesincemonth;style;stylespecify;unplugged;singer;registration_country
-1;;LA10;JMIYB;et;;Jõhvi;2008;"";;Funky Indie-rokk;;"";EE
-1;;LA11;JMIYB;et;;Jõhvi;2008;"";;Funky Indie-rokk;;"";EE
-1;;LA10;Ohtlik Kaev - OK!;et;;Tallinn;2010;"0";;Freaky:Rock;;womanandman;
-1;;LA10;Shotgun Suicide;et;;Tallinn;2007;"";Rock;Lo FI;;man;
-1;;LA10;Our Story;et;;Tallinn;2008;1;;Pop/Rock/Alernative;;womanandman;
-1;;LA10;Sweet Bastardo;et;;Tallinn;2008;10;Rock;"";;"";
-1;1;LA10;Frau Moses;et;;Tallinn;2007;6;Rock;"";;"";
-1;;LA10;Demonic;et;;Nõo;"";"";;"";;"";
-1;;LA10;Egostrip;et;;Tallinn;2006;"";Rock;Alternative;;man;
-1;1;LA10;Börte;et;;Vasalemma / Keila;2004;8;Rock;"";;man;EE
-1;;LA11;Börte;et;;Vasalemma / Keila;2004;8;Rock;"";;man;EE
-1;;LA10;Fatal if Swallowed;en;;Sweden;2001;"0";Metal;"";;man;
-1;;LA10;Faasinihe;et;;eesti;2007;10;Punk;"";1;womanandman;
-1;;LA11;Faasinihe;et;;eesti;2007;10;Punk;"";1;womanandman;
-1;;VA13;Faasinihe;et;;eesti;2007;10;Punk;"";1;womanandman;
-1;;VA14;Faasinihe;et;;eesti;2007;10;Punk;"";1;womanandman;
-1;;LA10;Leinapeni;et;;Kolga-Jaani/Viljandi;2007;3;;"indie rock folk,grunge ning elektroonilisete mõjutustega";;man;EE
-1;;LA11;Leinapeni;et;;Kolga-Jaani/Viljandi;2007;3;;"indie rock folk,grunge ning elektroonilisete mõjutustega";;man;EE
-1;1;LA10;Blueintheface;en;;"Helsinki, Finland";2006;"";;Rock;;woman;FI
-1;;LA11;Blueintheface;en;;"Helsinki, Finland";2006;"";;Rock;;woman;FI
-1;;VA14;Blueintheface;en;;"Helsinki, Finland";2006;"";;Rock;;woman;FI
-1;;VA15;Blueintheface;en;;"Helsinki, Finland";2006;"";;Rock;;woman;FI
-1;;LA10;Blacksmith;en;;"Jelgava, Latvia";2007;8;Rock;"";;man;LV
-1;1;LA10;Fumble;en;;Helsinki;2006;1;Punk;Sunny Punk Meets Dark Rock;;man;
-1;1;LA10;Artsiders;et;;Tallinn;"";"";;Lo Fi;;man;
-1;;LA10;Backstab;en;;"Latvia, Riga";2008;8;;hardcore / groove metal;;man;
-1;1;LA10;All Day Long;en;;"Riga, Latvia";2000;6;Punk;ska/punk;;man;LV
-1;1;LA10;Cacophonics;en;;"Riga, Latvia";2002;10;;pop punk/powerpop;;man;LV
-1;;LA11;Cacophonics;en;;"Riga, Latvia";2002;10;;pop punk/powerpop;;man;LV
-1;;LA10;AKNOOL;et;;Keila;2001;5;;Keldri;;man;EE
-1;;LA10;Must Rannik;et;;Tallinn;2008;5;Metal;Black/Death Metal;;"";EE
-1;1;LA10;The Nymph;et;;Keila;2003;10;;"";;other;EE
-1;;LA10;Deep Silence;en;;Latvia;2008;"";;Hard rock;;man;LV
-1;;LA11;Deep Silence;en;;Latvia;2008;"";;Hard rock;;man;LV
-1;1;LA10;Damian Cullen Band;en;;"Helsinki, Finland";2010;"0";Rock;"";;man;FI
-1;;LA11;Damian Cullen Band;en;;"Helsinki, Finland";2010;"0";Rock;"";;man;FI
-1;;LA10;Massive Scar Era;en;;Egypt;2005;1;Punk;Hardcore Metal;;woman;
-1;;LA10;Monstercöuq;et;;Tallinn/Saaremaa;2009;7;Rock;"";;man;EE
-1;;LA11;Monstercöuq;et;;Tallinn/Saaremaa;2009;7;Rock;"";;man;EE
-1;;LA10;HÄBI;et;;Keila;2009;8;Punk;"";;man;EE
-1;;LA10;The Lidocaine;en;;"Helsinki, Finland";2007;11;;"";;other;FI
-1;1;LA10;Clarkkent;en;;"Helsinki, Finland";2000;"0";Rock;Melodic / Indie Rock/Punk;;man;FI
-1;;LA11;Clarkkent;en;;"Helsinki, Finland";2000;"0";Rock;Melodic / Indie Rock/Punk;;man;FI
-1;;LA10;Breymes;et;;Jüri;2008;3;;Klassikaline Rock;;man;EE
-1;1;LA10;Randomness Is A Sea;et;;Tallinn;"";"";;"";;"";
-1;1;LA10;Kruuv;et;;Tallinn/Tartu;2007;2;;Popp-rokk-kantri-rege-bluus;;man;
-1;;LA10;Dominanta;et;;Tallinn;2004;1;;"";;man;RD
-1;1;LA10;Folke Westside;et;;"Helsinki, Finland";2007;7;;Hardcore / Electro / Punk;;other;EE
-1;;LA11;Folke Westside;et;;"Helsinki, Finland";2007;7;;Hardcore / Electro / Punk;;other;EE
-1;1;LA10;Rozen;et;;"Kehtna, Raplamaa";2007;5;;Gooti Nu;1;womanandman;
-1;;LA10;Haihtuva Nuoruus;en;;"Helsinki, Finland";2006;9;Rock;"";;man;
-1;1;LA10;Giuseppe Perverdi big band;et;;Hiiumaa;2005;3;Punk;HardcorePop;;"";
-1;1;LA10;Indefri;et;;Tartu;"";"";Metal;"";;"";
-1;1;LA10;Crucial Attack;et;;"";"";"";;"";;"";
-1;;LA10;Estoner;et;;Tallinn;2009;"";;stoner/riff/metal;;man;EE
-1;;LA11;Estoner;et;;Tallinn;2009;"";;stoner/riff/metal;;man;EE
-1;;LA10;Daves in Chains (Alice in Chains tribute band);en;;"Joensuu, Finland";2008;"0";Rock;Grunge;;man;FI
-1;;LA10;Kongomania;et;;Tallinn;"";"";Rock;"";;"";
-1;;LA10;Bork;et;;Tallinn.EST;2010;1;Popp;Pop-jazz-Indie;;man;EE
-1;;LA10;Conflict OK!;et;;Tallinn;1998;5;Punk;"";;womanandman;
-1;;LA10;The Spyro;en;;Finland;"";"";Rock;Indie;;man;FI
-1;1;LA10;KÖÖMES;et;;Tallinn;2008;6;;Elektropunkrokk;;man;EE
-1;;LA11;KÖÖMES;et;;Tallinn;2008;6;;Elektropunkrokk;;man;EE
-1;;LA10;Decode;et;;harjumaa;2009;"0";;alternatiivne pop punkrock;;womanandman;EE
-1;;LA10;MintTaara;et;;Muhu;2006;3;;pagan metal;;man;EE
-1;;LA10;After Puff;et;;Tallinn;2009;2;Rock;Alternatiiv/Rock;;man;EE
-1;;LA11;After Puff;et;;Tallinn;2009;2;Rock;Alternatiiv/Rock;;man;EE
-1;;LA10;SACRAMENTAL;en;;Latvia;2008;8;;Melodic Metal;;man;LV
-1;;LA11;SACRAMENTAL;en;;Latvia;2008;8;;Melodic Metal;;man;LV
-1;;LA10;Oak Tree;et;;Viljandi;2009;7;;indie / rock;;man;
-1;;LA10;Rodosotsiaalansambel Embrö;et;;Tallinn;2006;10;;"Garage, Alternative";;man;EE
-1;;LA10;Ohutsoon;et;;Haapsalu;2007;"";Punk;hardcore;;"";EE
-1;;LA11;Ohutsoon;et;;Haapsalu;2007;"";Punk;hardcore;;"";EE
-1;;LA10;Mumio;et;;Tallinn;2009;8;Rock;"";;man;
-1;;LA10;Boners;et;;Tallinn;2007;9;Rock;"";;man;EE
-1;;LA10;Number Ö;et;;Rakvere;"";"";;põrkepunk;;other;EE
-1;;LA11;Number Ö;et;;Rakvere;"";"";;põrkepunk;;other;EE
-1;;LA10;AnetteMarionette;et;;Tartu;2008;"";Metal;Post-hardcore;;"";
-1;1;LA10;Neljapäev;et;;Tallinn;2004;7;Rock;"";;man;EE
-1;;LA11;Neljapäev;et;;Tallinn;2004;7;Rock;"";;man;EE
-1;1;LA10;Checkpoint Charlie;et;;Tartu;2008;"0";Rock;indierock;;woman;
-1;1;LA10;Sun Quay;en;;Riga;2007;6;Elektrooniline;Disco;;woman;LV
-1;1;LA10;Justified Olöf and the Zippy Robots;et;;Viljandi;2008;"";;"Indie, Alternatiivrokk";;man;
-1;1;LA10;Lahingvombat;et;;Pärnu;2009;6;;"Ska, Hardcore";;man;
-1;;LA10;When the Glory Fades;et;;"";"";"";;"";;"";
-1;;LA10;HRR!;et;;Tallinn;2005;"";;indiemonkeyfunkeyreggaedrumandbass;;"";
-1;;LA10;STUPID LUCK;et;;Pärnu;2005;3;Rock;punkLuckrock;;man;EE
-1;1;LA10;Progress;et;;Tallinn;2009;9;;Progressive;;man;
-1;;LA10;TRADE;et;;Eesti;2009;8;Rock;alternatiivne;;man;
-1;;LA10;1-Up!;en;;Lahti;2010;"0";Popp;Pop-Punk / Electronica;;man;FI
-1;;LA10;SideMind;en;;Riga - Latvia;2006;"";Muu;post hardcore;;man;
-1;;LA10;Driven;et;;Tallinn;2007;"";Rock;"";;man;
-1;;LA10;sthlm Syndrome;en;;Stockholm-Sweden;2002;"";;Alternative punkrock;;man;
-1;;LA10;Suunatuli;et;;Nõo;2006;8;Punk;agropunk...teeme asju seinast seina;;man;EE
-1;;LA10;Punkentsefaliit;et;;Saaremaa;2002;3;Punk;rock;;man;EE
-1;;LA11;Punkentsefaliit;et;;Saaremaa;2002;3;Punk;rock;;man;EE
-1;;LA10;Remaining Bullet;et;;"Valgamaa, Aakre";"";"";;Melodic Deathcore;;man;
-1;;LA11;Remaining Bullet;et;;"Valgamaa, Aakre";"";"";;Melodic Deathcore;;man;
-1;1;LA10;Kassidele Iirised;et;;Tartu;2008;2;Rock;Funk-kantri-jne;;man;EE
-1;;LA10;Dunghill;et;;Tallinn;2007;"";Rock;"";;man;
-1;1;LA10;Pudrukapsatangud;et;;"";"";"";;"";;"";
-1;1;LA10;John Stuart Mill;et;;Pärnu;2005;"0";;Alternatiiv;;man;EE
-1;;LA11;John Stuart Mill;et;;Pärnu;2005;"0";;Alternatiiv;;man;EE
-1;;LA10;morGuevara;et;;Tartu;2007;"";;Rock/psühhedeelia/punk;;man;
-1;;LA10;Miyki;et;;Jõgeva;2008;"";;funk/ska/pop;;man;EE
-1;;LA10;When a pigeon attacks its over;et;;Viinistu;2009;1;Rock;"";;woman;
-1;1;LA10;PX BAND;et;;Tallinn;1998;"";;"";;"";
-1;1;LA10;Taavi Peterson ja Üdi;et;;TAL;2008;7;;"";;"";""
-1;;LA10;Rugged Wilderness & Mountain Man No More;en;;"Gothenburg, Sweden";2009;5;Popp;Pop with elements of punk and free improvisation;;woman;
-1;1;LA10;Crashdaf;et;;Tartu;2007;4;Rock;räppi sugemetega;;man;
-1;;LA11;Crashdaf;et;;Tartu;2007;4;Rock;räppi sugemetega;;man;
-1;;VA13;Crashdaf;et;;Tartu;2007;4;Rock;räppi sugemetega;;man;
-1;;VA14;Crashdaf;et;;Tartu;2007;4;Rock;räppi sugemetega;;man;
-1;;LA10;Mentalface;en;;Helsinki;"";"";Rock;Rock;;"";
-1;1;LA10;Sisare;en;;"Vihti, Finland";2008;"0";Metal;"Death Metal, Progressive";;man;FI
-1;;LA10;Since Our First Guitar;en;;"";"";"";;"";;"";
-1;;LA10;Varuväljapääs;et;;"";"";"";;"";;"";
-1;;LA10;Wunda-Ment;et;;Tartu linn;1990;"0";;"";;"";EE
-1;;LA11;Wunda-Ment;et;;Tartu linn;1990;"0";;"";;"";EE
-1;;LA10;Koficore;et;;"Saku, Eesti";2008;1;Rock;Alternatiiv;;woman;
-1;;LA10;Fucking elephants;et;;Tartu;2005;"";;"";;"";
-1;;LA10;PyromaniArt;en;1;sweden;2008;"0";;"";;"";
-1;;LA10;Luigi Vampa;et;;Tallinn;2008;8;Rock;"";;man;
-1;1;LA10;off.season;et;;Tallinn;2002;"0";Rock;post grunge;;man;EE
-1;;LA11;off.season;et;;Tallinn;2002;"0";Rock;post grunge;;man;EE
-1;1;LA10;Atendaat;et;;Tartu;"";"";;"";;man;
-1;1;LA10;Fliplike;et;;Paide;2008;"";;Triprock;;man;EE
-1;1;LA10;THUrsday 12th;en;;Latvia Rigga Town;2004;9;Metal;Alternative Metal;;man;
-1;1;LA10;Mad Lee Riot;en;;"Stockholm, Sweden";2005;1;Rock;"Alernative, Indie, Stoner, and so on and so forth";;man;SE
-1;;LA10;Dusty Leaves;et;;tartu;2009;9;;stoner;;man;
-1;;LA10;Surakas;et;;Tallinn;2008;2;;Mahe ja meeldiv;;man;
-1;;LA10;Kenitaalid;et;;Kadrina;2009;"0";;Alternative Punk;;man;EE
-1;;LA11;Kenitaalid;et;;Kadrina;2009;"0";;Alternative Punk;;man;EE
-1;;LA10;Lowleft;et;;Tallinn;2008;2;;Alternatiivne;;man;
-1;1;LA10;Tor-Peders Kapell;en;;"Ederstorp, Sverige";2008;3;;Surf-Psych;;"";SE
-1;;LA11;Tor-Peders Kapell;en;;"Ederstorp, Sverige";2008;3;;Surf-Psych;;"";SE
-1;;LA10;The People;en;;"Stockholm, Sweden";2004;4;;Protopunk/Psychedelic hardrock;;man;SE
-1;;LA11;The People;en;;"Stockholm, Sweden";2004;4;;Protopunk/Psychedelic hardrock;;man;SE
-1;;LA10;11nights;en;;stockholm sweden;2007;10;Rock;Soft/rock;1;womanandman;
-1;;LA10;Fully Out Of Control (FOOC);en;;"Riga, London, Sweden";2009;4;Rock;"";;"";
-1;;LA10;KASTETE;en;;"Latvia, Riga";2009;"0";Punk;hardcore;;man;
-1;;LA10;Brand Nu Band;en;;"Riga, Latvia";2009;1;Metal;"Alternative Metal, Alternative Rock";;man;LV
-1;1;LA10;Miip;et;;Kehra;2005;9;;"";;woman;
-1;;LA11;Miip;et;;Kehra;2005;9;;"";;woman;
-1;;LA10;räppsodi;et;;Eesti;1990;"0";Rock;"";;man;EE
-1;;LA10;Steller;et;;Tallinn;"";"0";Rock;rockrock;;woman;
-1;;LA10;triophonix;et;;Tallinn;"";"";Eksperimentaalne;"";;"";
-1;1;LA10;Das Sonntags Legion;en;;"Riga, Pārdaugava";2007;"";;post-folk;;womanandman;
-1;;LA10;Soul Seduction;en;;Sweden;2006;"0";;Soul/Rock;;woman;
-1;;LA10;HELLVETTI;et;;"Maapealne, lihtsurelik";2009;11;;Riffenroll;;man;EE
-1;;LA10;roman boys and girls;et;;tallinn;2009;10;Muu;ambient/ pop;;womanandman;
-1;;LA10;Highway;et;;Tartu;2008;11;;"";;man;
-1;;LA10;Hukkunud Hinged;et;;Tallinn;2007;"";;Doom;;"";
-1;1;LA10;Plixid;et;;Laguja;2005;1;Punk;pop/rock/punk;;woman;EE
-1;;LA10;Noisebleed;et;;"";"";"";;"";;"";
-1;;LA10;Growing Up;et;;"Hiiumaa, Kärdla";2009;2;;Alternatiiv rokk;;man;EE
-1;;LA10;Rabbitesise;et;;Tartu;2010;"0";;Träss;;man;
-1;;LA10;MERIBEL;en;;LATVIA;2009;"";Rock;ALTERNATIVE;;man;LV
-1;1;LA10;KamikaDze-TR;en;;"Estonia, Tallinn";2006;10;Rock;Split Style;;man;
-1;;LA10;Pūķa gars;en;;Rīga (Latvia);2009;2;Rock;"";;man;LV
-1;;LA10;Un-Real;en;;"Estonia, Tallinn";2005;"0";Metal;Heavy/speed/thrash;;womanandman;
-1;;LA10;Predict;en;;Latvia;2004;3;;Drive;;man;LV
-1;;LA11;Predict;en;;Latvia;2004;3;;Drive;;man;LV
-1;;LA10;Define;en;;Finland;2006;5;Metal;Alternative;;man;
-1;;LA10;The Snips;en;;"Riga, Latvia";2006;9;;Dance Punk;;womanandman;LV
-1;;LA10;Freelancers;en;;"Rīga, Latvia";2007;"";Punk;Melodic punk rock;;man;LV
-1;;LA11;Freelancers;en;;"Rīga, Latvia";2007;"";Punk;Melodic punk rock;;man;LV
-1;1;LA10;Edgar Poe's Favorite Cat;et;;"Estonia, Tartu";2003;"";;"";;"";SI
-1;;LA11;Edgar Poe's Favorite Cat;et;;"Estonia, Tartu";2003;"";;"";;"";SI
-1;;LA10;TRAUMA MORALIS;en;;Riga (LV);2006;1;;Grindcore;;man;LV
-1;1;LA10;Junk Riot;et;;Tallinn;"";"";;"";;man;
-1;;LA10;TORIA;en;;Valmiera/Smiltene;2008;10;;"";;"";LV
-1;;LA10;Lassie the Cat;en;;"Riga, Latvia";2006;9;Metal;progressive death metal;;man;
-1;1;LA10;Rising Sun;et;;Tallinn;2008;6;Rock;"";;man;EE
-1;;LA11;Rising Sun;et;;Tallinn;2008;6;Rock;"";;man;EE
-1;;LA10;Bye-bye violet tapes;en;;"";2007;2;Rock;"post-punk, darkpop, tropical";;man;RU
-1;1;LA10;Age of Stones;en;;"Valmiera, Latvia";2001;"0";Rock;"";;man;LV
-1;;LA10;Sniegaviru Rupnica (Snowmans Factory);en;;Latvia - Riga;2002;9;Metal;heavy dream metal;;womanandman;LV
-1;1;LA10;ElyJah & MostBand;et;;"";"";"";;"";;"";
-1;;LA10;Emerald;et;;Viljandi;2009;"";;Ökometal;;"";EE
-1;;LA10;Ketikoerad;et;;"";"";"";;"";;"";
-1;;LA10;IDILLIA;en;;"";"";"";;"";;"";EE
-1;;LA10;So Far So Good;et;;Tallinn;2009;4;;"Post Hardcore, Punk";;man;
-1;1;LA10;Empty Mind;et;;Pärnumaa;2000;7;Rock;"";;womanandman;
-1;;VA13;Empty Mind;et;;Pärnumaa;2000;7;Rock;"";;womanandman;
-1;;VA15;Empty Mind;et;;Pärnumaa;2000;7;Rock;"";;womanandman;
-1;1;LA10;Paean;et;;Tallinn;2009;3;;Progressive death/doom;;man;
-1;;LA10;Animal Drama;et;;Tartu;2009;"0";;"Isevalminud stiil, võimalik, et Indie";;other;
-1;1;LA10;Groundhog Day;et;;Ahja;2007;4;;"";;"";
-1;;LA10;"Sound Religion, Riga";en;;"Riga, Latvia";2006;3;;"Reggae, punk, ska, rock";;man;
-1;1;LA10;Nitrous;et;;Tallinn;2004;"";Metal;Thrash Metal;;man;
-1;;LA10;Morena;en;;"Riga, Latvia";2006;"";Metal;"";;woman;LV
-1;;LA10;Lynx;et;;Tallinn;1995;9;;"...,rock,metal...";;man;EE
-1;1;LA10;Under Your Skin;et;;Tallinn;2006;"";;Alternatiiv;;man;EE
-1;;LA11;Under Your Skin;et;;Tallinn;2006;"";;Alternatiiv;;man;EE
-1;;LA10;Forthee;et;;Tallinn;2008;4;Metal;meloodiline metal;;woman;
-1;1;LA10;Lyyn;et;;Tallinn;2009;11;Popp;indie-pop;;"";
-1;;LA10;Kurjam;et;;"";"";"";Punk;"";;man;
-1;1;LA10;Rob Findel;et;;Tartu;2009;9;Muu;"";;man;EE
-1;;LA10;Twins Inc.;et;;Pärnu;2009;4;;Punk-Rock;;man;
-1;1;LA10;Anal Caves;et;;Pärnu;2008;9;Metal;Grindcore;;man;EE
-1;1;LA10;Riddarna;en;;"Gothenburg, Gothland (Sweden)";2009;2;Rock;Alternative/Experimental/Rock/Punk/Surf/Hardcore/Stoner;;man;SE
-1;1;LA10;ansambel Kaja;et;;"";"";"";Jazz;"";;man;
-1;;LA10;Almost;en;;"Latvia,Riga";2006;8;Punk;"";;man;LV
-1;1;LA10;Põhja Konn;et;;Tallinn;2009;"";;"";;man;
-1;;LA10;Audience Killers;en;;"Latvia, Riga/Balvi";2009;2;;we call it dance rock;;man;LV
-1;1;LA10;Maux Saks & the Cocks;et;;Pärnu;2009;2;Hip Hop;Trip Hop;;"";
-1;;LA10;ODSP;en;;"Riga,LV";2008;4;Rock;Instrumental rock;;"";
-1;;LA10;Infectide;et;;"Eesti, Tallinn";2009;7;Metal;"";;womanandman;
-1;;LA10;Mockingbird;et;;Tartu;2009;2;;Hard-Rock;;man;EE
-1;;LA10;Redneck Rampage;et;;"";"";"";;"";;"";
-1;;LA10;Fish On Fire;et;;eesti/briti;2003;"";Rock;"punk, pub-rock, new wave";;man;
-1;;LA10;Holy Lamb;en;;Latvia;1991;8;;Progressive;;man;LV
-1;1;LA10;Dandelion Wine;en;;"Latvia, Riga";2005;1;Jazz;"Funky, Groovy";;woman;
-1;1;LA10;Spaiks;et;;Rapla;2003;4;Rock;"";;"";
-1;;LA10;Suund on Pluuto;et;;"";"";"";;"";;"";EE
-1;;LA10;The SKYS;en;;Lithuania;1995;10;Rock;Classic/Progressive/Alternative;;womanandman;LT
-1;;LA11;The SKYS;en;;Lithuania;1995;10;Rock;Classic/Progressive/Alternative;;womanandman;LT
-1;;LA10;BACKFLOW;en;;Latvia;2007;"0";Rock;Alternatiiv :);;man;
-1;;LA10;KMS;et;;"Tartumaa, Kallaste";2006;4;;"";;"";EE
-1;;LA10;SEAT FREE;en;;Latvia;2005;6;Punk;Easycore;;man;LV
-1;;LA11;SEAT FREE;en;;Latvia;2005;6;Punk;Easycore;;man;LV
-1;;LA10;The Lesbians;et;;Tartu;2009;10;Eksperimentaalne;"Indie, grunge,";;man;
-1;1;LA10;Alphabet For Scene Kids;et;;Tartu;2009;10;Elektrooniline;"Alternative, Post-Hardcore";;man;
-1;;LA10;Analysis;et;;Võru;2004;2;Metal;"";;man;EE
-1;;LA11;Analysis;et;;Võru;2004;2;Metal;"";;man;EE
-1;1;LA10;Dj Raadz;et;;"";"";"";;"";;"";
-1;;LA10;KISS of the DOLLS;en;;"Latvia, Riga";2009;6;Rock;Glam rock Hit'Metal band;;man;LV
-1;;LA10;Envy The Name;et;;Tallinn;2010;2;Rock;Experimental/Alternative;;man;
-1;1;LA10;Cantilena;et;;Tallinn;2009;3;Metal;Thrash Metal;;"";EE
-1;;LA10;Honeyman and serpent snakes;et;;Pärnu;2009;"";Rock;Punk Rock;;man;
-1;1;LA10;Melony Green;et;;Saue;2007;"";Rock;Funk/surfrock/ska/reggae;;"";EE
-1;;LA10;Capital Delusion;et;;"";"";"";;"";;"";
-1;;LA10;MOZART'S REVENGE;en;;"Riga - Jurmala, Latvia";2009;10;;Alternative;;man;LV
-1;;LA10;Statika;et;;Tallinn;2006;"";Metal;"";;man;EE
-1;;LA10;Pornostation Slit;et;;"";"";"";;"";;"";
-1;;LA10;Circus Runaways;et;;Tallinn;2008;10;;Hard/Glam Rock;;man;EE
-1;;LA11;Circus Runaways;et;;Tallinn;2008;10;;Hard/Glam Rock;;man;EE
-1;;LA10;Lauri Lugu;et;;"";"";"";;"";;"";
-1;;LA10;Easy Company;et;;Tartu;2010;"";;Alternatiivrock;;"";EE
-1;;LA11;Easy Company;et;;Tartu;2010;"";;Alternatiivrock;;"";EE
-1;;LA10;Ukerdajad;et;;Rakvere;2009;6;Folk;"";;man;
-1;;LA10;Under Wunder;et;;"";"";"";;"";;"";
-1;;LA10;superliustik;et;;tartu;2009;"";;sõidu-seiklus&seisundimuusika;;"";
-1;;LA10;Tsern;et;;Tartu;2009;5;;Progressiivne;;woman;
-1;;LA10;Frantic Sunday (SE);en;;"Uppsala, Sweden";2008;8;Popp;Indie;;man;
-1;;LA10;Adventure Calls;en;;"";"";"";;"";;"";
-1;;LA10;Sold;et;;"";"";"";;"";;"";
-1;;LA10;SmellS GooD;et;;"";2003;"";Rock;"";;man;
-1;1;LA10;Radiowives;en;;"";2009;8;Punk;"";;womanandman;FI
-1;1;LA10;KINKYMINT;et;;Kuressaare- Tallinn;2000;6;Elektrooniline;"pervodisko, soundclub rock?, down tempo, jne";;other;
-1;1;LA10;Shelton San;et;;"";2002;"";Rock;"";;man;EE
-1;1;LA10;Ajutine valitsus;et;;"";"";"";;"";;"";EE
-1;1;LA10;Kirtana Rasa;et;;Eesti;"";"";;"";;"";
-1;;LA10;Boom Truck;et;;Tallinn;"";"";Metal;"";;man;
-1;;LA10;Marrakesh;en;;Gothenburg;2008;2;Rock;Energetic;;man;
-1;1;LA10;HER MEMORIAL DISCOURSE;et;;"Eesti, Tartu";2009;4;;Metalcore;;"";EE
-1;;LA11;HER MEMORIAL DISCOURSE;et;;"Eesti, Tartu";2009;4;;Metalcore;;"";EE
-1;;LA10;The Scavengers of Human Misery;et;;"Eesti, Paide";2010;1;Metal;"";;man;
-1;;LA10;HELID;en;;Latvia - Salacgrīva/Liepāja/Auce;2005;10;Metal;hardcore/metalcore/progressive;;man;LV
-1;;LA11;HELID;en;;Latvia - Salacgrīva/Liepāja/Auce;2005;10;Metal;hardcore/metalcore/progressive;;man;LV
-1;1;LA10;Helios;et;;Tallinn/Kehra;2010;2;;"";;woman;EE
-1;;LA10;San Deville;en;;"Latvia, Sigulda";2003;11;Metal;"";1;man;LV
-1;1;LA10;Motion;et;;"Haiba küla, 40 km Tallinnast Pärnu poole";2009;"";;"";1;man;EE
-1;1;LA10;Disco HighLights;et;;"";2005;"";;"";;womanandman;EE
-1;;LA11;Disco HighLights;et;;"";2005;"";;"";;womanandman;EE
-1;;VA13;Disco HighLights;et;;"";2005;"";;"";;womanandman;EE
-1;1;LA10;Marje Ingel;et;1;Tallinn;2006;"";;"";;"";
-1;1;LA10;Ferry;et;;Märjamaa-Sipa-Rapla;2008;11;;punk-rock;;"";EE
-1;;LA11;Ferry;et;;Märjamaa-Sipa-Rapla;2008;11;;punk-rock;;"";EE
-1;1;LA10;.Khi;et;;tallinn;2006;"";Elektrooniline;eksperimentaal;;"";
-1;1;LA10;Dr.Esc;et;;karksi nuia;2000;"";Elektrooniline;8bit;;"";
-1;1;LA10;zahir;et;;"";"";"";Rock;"";;man;
-1;1;LA10;Vj Lowbite;et;1;Eesti;2009;8;;"";;"";
-1;1;LA10;SPIDO;et;;"";"";"";;"";;man;
-1;;LA10;WakeNC;en;;"";2008;3;Rock;"";;woman;
-1;;LA10;Revolver;et;;Eesti;2009;1;Rock;"";;man;
-1;;LA10;Cake of Peace;et;;Tallinn;2009;4;;Torerock;;womanandman;
-1;;LA10;Pleonast;en;;"Kouvola, Finland";2008;"";Metal;"Alternative, Progressive, Rock";;man;FI
-1;1;LA10;Nota Bene;et;;"";"";"";;"";;"";
-1;;VA15;Nota Bene;et;;"";"";"";;"";;"";
-1;;LA10;Merwis;et;;Kohila;2009;"";Rock;"";;man;
-1;1;LA10;Pööloy Gläänz;et;;"";"";"";;"";;"";EE
-1;;LA11;Pööloy Gläänz;et;;"";"";"";;"";;"";EE
-1;;VA14;Pööloy Gläänz;et;;"";"";"";;"";;"";EE
-1;;VA15;Pööloy Gläänz;et;;"";"";"";;"";;"";EE
-1;1;LA10;Phuque;et;;Tallinn;2008;2;Elektrooniline;"";;"";EE
-1;;LA10;Teine Asi;et;;Pärnu;2009;8;Punk;"";;man;
-1;1;LA10;The Sounduniversums;et;;Kosmos;2009;5;;"";;"";
-1;;LA10;Metsalinnud;et;;Tallinn;"";"";Eksperimentaalne;"";;man;
-1;;LA10;c.o.u.g.h. & Intermetric;et;;"Tallinn, Võru";"";"";;"";;"";
-1;1;LA10;Mimicry;et;;"";"";"";;"";;"";
-1;;LA10;Ikoon;et;;Tallinn;2009;10;Rock;"";;woman;EE
-1;1;LA10;Käärkäsi;et;;Tallinn;2004;"";Eksperimentaalne;"";;"";
-1;1;LA10;Audioholic;et;1;"";"";"";;"";;"";
-1;1;LA10;Rafu;et;1;"";"";"";;"";;"";
-1;;LA10;Once Were Empire;en;;"Riga, Latvia";2009;9;;post-hardcore/metalcore;;man;
-1;1;LA10;Outist;et;;Rapla;2008;11;Jazz;elektroonika-jazz-karm;;man;""
-1;1;LA10;Tarkmeenia;et;"0";"";"";"";;"";;"";""
-1;;LA11;Mr. Rally;en;;"Kuldiga, Latvia";2009;11;Rock;"";;man;""
-1;;LA11;Gina;en;;"Helsinki, Finland";2006;5;Rock;Alternative;;woman;""
-1;;LA11;Beyond the Skyline;et;;Jõhvi;2010;1;;Electro/metalcore;;man;EE
-1;;LA11;LEEK;et;;"";"";"";;"";;"";""
-1;;LA11;Moondust;en;;"Vilnius, Lithuania";2006;9;Rock;Alternative;;man;""
-1;;LA11;Napoleon Says;en;;Helsinki;2007;6;Popp;Electro-Pop;;womanandman;FI
-1;;LA11;Esten & SFD (Six Feet Deepers);et;;Tallinn;2010;10;Eksperimentaalne;corerap;1;man;EE
-1;;LA11;Okulus;et;;Viljandi;2009;11;Rock;"";;woman;EE
-1;;LA11;LEGSHAKER;et;;PÄRNU;2010;"";Muu;Folk-Punk;;man;EE
-1;;LA11;Empty Mind.;et;;Pärnu-Jaagupi;2000;7;;"";;womanandman;""
-1;;LA11;Mkjey;et;;Ida-virumaa;2009;5;Elektrooniline;digitaalne hardcore ja muud jama kokku segatud;;man;EE
-1;;LA11;Mullets n' Bullets;en;;"Joensuu, Finland";2005;"0";;skapunk;;man;""
-1;;LA11;Fucktor;et;;Tallinn-Keila-Nõmme;1989;2;;Rock;;man;""
-1;;LA11;Bat Attack;en;;Finland;2009;5;Punk;Mixture of punk and rock baby!;;man;FI
-1;;LA11;Rude;et;;Tõrva;1998;"";Metal;"";;"";""
-1;;LA11;Suicide Love Boat;en;;"Tampere, Finland";2009;6;Muu;Rock´n´Growl;;man;""
-1;;LA11;Special Friends;en;;"Helsinki, Finland";2009;"";;"";;man;FI
-1;;LA11;Lucky Jeans;et;;Tallinn;2010;"";Rock;Rockabilly;;man;EE
-1;;LA11;My Lucid Dream;en;;Keila;2010;9;;Alternative rock;;man;""
-1;;LA11;Condition:Dead;en;;"London, UK";2007;11;Punk;"";;man;""
-1;;LA11;Embrö;et;;Tallinn;2006;9;;Garaaž;;womanandman;EE
-1;;LA11;KallocaiN;en;;"Norrköping, Sweden";"";"";Muu;Indie Rock;;man;SE
-1;;LA11;Something To Die For;et;;Paide;2010;6;Metal;metalcore/deathcore;;man;EE
-1;;LA11;MYSTONS;en;;"Turku, FINLAND";2007;5;Rock;"Mystic Rock, metal, alternative, grunge, blues";;man;""
-1;;LA11;Paradise Beneath Us;et;;Tartu;2010;"0";Metal;"";;man;EE
-1;;LA11;SEEVALD;et;;Pärnumaa metsadest ikka;2004;11;Punk;"";;man;""
-1;;VA13;SEEVALD;et;;Pärnumaa metsadest ikka;2004;11;Punk;"";;man;""
-1;;VA14;SEEVALD;et;;Pärnumaa metsadest ikka;2004;11;Punk;"";;man;""
-1;;LA11;Stóra Magnara;et;;Paide;2010;6;Rock;"";;man;""
-1;;LA11;Reach to Her;et;;Tartu;2009;3;;Alternative;;woman;EE
-1;;LA11;Tuvipoeg Kruvi;et;;Tallinn;2010;1;Punk;"";;other;""
-1;;LA11;Ginger Goes Black;et;;Pärnu;2008;10;;"";;"";EE
-1;;LA11;smokes lets go;et;;"";"";"";Rock;"";;"";""
-1;;LA11;Rotten Mankind;et;;Järvakandi;2010;5;;Metalcore/post-hardcore;;man;EE
-1;;LA11;Idiaalsed Inimesed;et;;Tallinn;1990;8;Rock;"";;"";EE
-1;;LA11;Scansi;et;;Pärnu;2007;6;Rock;vanakooli rokk;;other;EE
-1;;LA11;New Killer Star;en;;"Tampere, Finland";2008;"";Rock;"";;man;FI
-1;;LA11;Cryptica;et;;Tallinn;2008;3;Metal;Thrash;;man;EE
-1;;LA11;After Bailout;et;;Tartu;2010;2;;Alternative Pop/Rock;;man;EE
-1;;LA11;Art OF Keeping Secrets;en;;"Latvia, Riga";2009;10;;"";;man;LV
-1;;LA11;Reckless;et;;Tallinn;2009;9;;hard rock/heavy metal;;man;EE
-1;;LA11;Poetical Symbion;et;;Tallinn;2006;"";;Death metal/Experimental;;man;""
-1;;LA11;Aklemator;et;;Kallaste;1999;1;;Thrashy alternative metal;;man;""
-1;;LA11;The Flowers Of Universe;et;;Stato della Città del Vaticano;1999;"";;glam / new wave;;"";EE
-1;;LA11;Taavi Peterson & Üdi;et;;Tallinn;2008;7;Rock;"";;man;""
-1;;LA11;Hells Bells;et;;"";"";"";;"";;"";EE
-1;;LA11;Hõbeniit;et;;Bammarboda;2010;4;;Disco | Rock | Svensk podiet;;womanandman;EE
-1;;LA11;Edinburgh;et;;Tallinn;2010;"";Eksperimentaalne;Alternatiivmuusika;;"";""
-1;;LA11;Infektsioon;et;;Tallinn;2009;8;;"";;woman;EE
-1;;LA11;Oranžās brīvdienas;en;;"";2000;9;Folk;turbofolk;;man;""
-1;;LA11;Zenith;en;;"Latvia, Riga";2009;9;Rock;Alternative/Indie/Psychedelic;;man;""
-1;1;LA10;Unholy fables.;et;;"Tartu, Eesti";2005;"";;Sarcastic;;man;EE
-1;;LA11;Unholy fables.;et;;"Tartu, Eesti";2005;"";;Sarcastic;;man;EE
-1;;LA11;Left;et;;Läänemaa;2009;3;Rock;Soft;;womanandman;""
-1;;LA11;Scarlet Drop;en;;Sweden/Malta;2005;2;Metal;Alternative metal;;woman;SE
-1;;LA11;The Pitch;et;;Tallinn;2011;1;;Alternative;;woman;EE
-1;;VA13;The Pitch;et;;Tallinn;2011;1;;Alternative;;woman;EE
-1;;LA11;The Hypothesis;en;;Finland;2010;"";Metal;"";;man;""
-1;;LA11;Debbiefox;en;;"Finland, Helsinki";2004;"";Muu;indierock;;"";FI
-1;;LA11;Cookies;et;;"";"";"";;"";;man;""
-1;;LA11;Hypnothesia;et;;"";2010;3;;"";;"";""
-1;;LA11;Street Lips;en;;Finland;2009;"0";Rock;Street;;man;""
-1;;LA11;RaGDoll;et;;"";"";"";;"";;"";EE
-1;;LA11;The Afternoon;en;;Latvia;2009;"0";Rock;New age pop punk rock;1;man;LV
-1;;LA11;Nightly Skyline;et;;Tallinn;2010;1;;"Alternatiiv rocki, rocki, pop-rocki hübriid, meelodilise vokaliga.";;man;EE
-1;;LA11;RaudRaev;et;;Viljandimaa;2010;5;Folk;folk-metal;;man;""
-1;;LA11;The Rude Grooves;et;;Tallinn;2011;"0";;Bluus-rock;;man;EE
-1;;LA11;Frantic Sunday;en;;"Uppsala, Sweden";2008;8;Popp;Rock;;man;SE
-1;;LA11;The Vultones;en;;"Savonlinna, Finland";2009;2;Rock;"";;man;FI
-1;;LA11;Facelift Deer;et;;Pärnu;2011;"0";;Alternatiiv/Post;;womanandman;""
-1;;LA11;O.D.W.;en;;Latvia;2008;8;;Celtic punk;;man;LV
-1;;LA11;Quick Thought;et;;Pärnu;2010;11;Rock;Alternative;;"";EE
-1;;LA11;Diabolical End of Romance;et;;Tartu;2010;9;;Sludge Metal;;man;EE
-1;;LA11;Sibyl Vane;et;;Pärnu;2010;2;;Alternatiiv;;woman;EE
-1;;LA11;Ceremonial Perfection;et;;"";2008;"0";;Melodic Death Metal;;man;EE
-1;;LA11;Unreal;et;;Tallinn;2005;"";Metal;heavy metal;;man;
-1;;LA11;Pi-Jamazz;et;;"Tartu, Eesti";"";"";;"Jazz, Ambient, Jazz-Rock";;"";EE
-1;;LA11;Monolith;en;;"Tallinn, Estonia";2006;7;Metal;Alternative;;man;
-1;;LA11;We Rise Again;et;;"Tallinn, Eesti";2008;5;;Death metal / hardcore;;"";EE
-1;;LA11;Hei Kaunitar;et;;Tallinn;2007;"";;"";;man;
-1;;LA11;When a Pigeon Attacks it's Over;et;;Kuusalu vald;2009;"";Rock;"Alternatiivne. Mängime ka seda, mis esimesena pähe tuleb(jämm).";;woman;EE
-1;;LA11;The Union Cmyk;et;;Tallinn;2011;1;Punk;Electro-punk;;woman;
-1;;LA11;Blackout;et;;Jõhvi;2010;11;;"hard rock, hair metal";;"";
-1;;LA11;Swift Feed;en;;Narva;2009;7;Eksperimentaalne;post-rock;;man;
-1;;LA11;ANNIE MALL;en;;"Helsinki/Tampere/Jyväskylä, Finland";2007;10;Rock;"";;womanandman;
-1;;LA11;bork.;et;;"Tallinn, Eesti";2010;"0";;Indie;1;womanandman;EE
-1;;LA11;Withered Within;en;;"Kouvola, Finland";2004;5;Metal;Melodic Death Metal;;man;FI
-1;;LA11;Nation Despair;en;;"Tampere, Finland";2008;"0";;Riff-driven modern metal;;"";
-1;;LA11;Powergy the band;en;;"Latvia, Riga";2009;5;;Crossover rock;;womanandman;
-1;;LA11;Riiva;en;;"Helsinki, Finland";2009;6;Punk;Hardcore/punk;;man;
-1;;LA11;Dandelion Wine / Pieneņu Vīns;en;;"Riga, Latvia";2005;1;Muu;"jazz, jazz-pop, funk, fusion, disco";;woman;
-1;;LA11;Awaken Whale;et;;Tartu;2009;4;;groove/death metal;;man;
-1;;LA11;"Sirdsmieru, Laimi un kaut ko garšīgu";en;;"Latvia, Riga";2010;8;Eksperimentaalne;Post-Rock;;other;
-1;;LA11;4 ELEMENTS;et;;Narva;2009;1;Metal;Thrash;;"";
-1;;VA13;4 ELEMENTS;et;;Narva;2009;1;Metal;Thrash;;"";
-1;;LA11;Pollox!;et;;tallinn;2008;9;Rock;Alternatiivne;;man;
-1;;LA11;Faithful In Misfortune;en;;"Riga, Latvia";2010;8;;Post-hardcore/electronica;;man;LV
-1;;LA11;No Title;en;;"";"";"";;"";;"";
-1;;LA11;SnoBrand;en;;Latvija;2006;"";Metal;"";;"";LV
-1;;LA11;Silverstique;et;;Tallinn;2009;"";Rock;"";;woman;
-1;;LA11;SIENA ROOT;en;;Stockholm;1997;"";Rock;"Classic Rock, Psychedelic";;"";
-1;;LA11;LARWICK AND DYKES;et;;Tartu;2010;"";;Haigism;;womanandman;
-1;;LA11;Versus All;en;;"Helsinki, Finland";2007;10;Punk;Punkrock;;man;FI
-1;;LA11;Pariis;et;;Tartu;2009;10;Rock;"";;"";
-1;;LA11;Project Dekadenz;et;;Tartu;2010;9;;D-beat/Hardcore/Crust Punk Doom'i ja Sludge'i elementidega;;man;
-1;;VA15;Project Dekadenz;et;;Tartu;2010;9;;D-beat/Hardcore/Crust Punk Doom'i ja Sludge'i elementidega;;man;
-1;;LA11;Otherway;en;;"Riga, Latvia";2008;11;Metal;Alternative Experimental Metal;;man;LV
-1;;LA11;Anette Marionette;et;;"";"";"";;"";;"";
-1;;LA11;Frankie and Gator;en;;Kouvola;2006;"";;progressive hard rock pop;;man;FI
-1;;LA11;Mati Test bänd;et;;"";"";"";;"";;"";
-1;;VA13;Tundmatu papagoi haud;et;;Tartu;2012;2;Folk;Naiivne indie-folk;;"";EE
-1;;VA13;Voice Of voices;et;;Pärnu;2011;9;;"";;"";
-1;;VA13;Liina&The 4 Lovebirds;et;;Tartu;2011;8;Rock;rock n' roll;;woman;EE
-1;;VA13;The Fuxx;et;;Viljandi/Tartu;2011;11;;"";;man;
-1;;VA13;Under The Glory;et;;"";"";"";;"";;"";EE
-1;;VA13;P.N.T;et;;Tartu;2010;11;Punk;Punk-Rock;;man;
-1;;VA13;Unholy Fables;et;;Tartu;2005;1;Metal;True Indie Black Metall;;"";
-1;;VA13;White Sparks;et;;Tallinn;2011;10;;Instrumentaalne sünt post-rock;;other;EE
-1;;VA14;White Sparks;et;;Tallinn;2011;10;;Instrumentaalne sünt post-rock;;other;EE
-1;;VA15;White Sparks;et;;Tallinn;2011;10;;Instrumentaalne sünt post-rock;;other;EE
-1;;VA13;A3;et;;Pärnu;2011;11;Rock;Alternatiiv;;man;
-1;;VA13;D.A.W.N.;et;;Tallinn;2012;6;Rock;Blues- Rock;;"";
-1;;VA13;Jats;et;;"Haapsalu, Noarootsi";2012;4;Folk;Indie Folk;;man;
-1;;VA13;Rogue Gate;et;;Tallinn;2008;7;Metal;Groove Metal;;womanandman;EE
-1;;VA13;Electrobation;et;;Tallinn;2011;2;;Electro-Punk;;womanandman;
-1;;VA15;Electrobation;et;;Tallinn;2011;2;;Electro-Punk;;womanandman;
-1;;VA13;Mandarones;et;;Tartu linn;2012;"0";Muu;Stoner blues;;other;
-1;;VA13;Miggimaus;et;;Tallinn;2012;1;Rock;Alternative/Indie;;womanandman;
-1;;VA13;KOLMTEIST;et;;Tõrva;2001;7;Rock;Rock/metal;;man;
-1;;VA14;KOLMTEIST;et;;Tõrva;2001;7;Rock;Rock/metal;;man;
-1;;VA13;Emili;et;;Vasalemma- Keila- Tallinn;2012;2;Rock;"";;man;EE
-1;;VA14;Mirror Phase;et;;Tallinn;2013;3;;PopRock;;womanandman;EE
-1;;VA15;Mirror Phase;et;;Tallinn;2013;3;;PopRock;;womanandman;EE
-1;;VA14;TAUD;et;;"";"";"";;"";;"";
-1;;VA14;Good Night I'm Drunk;et;;Tallinn;2011;"";;Drunk'N'Roll;;man;EE
-1;;VA14;Defeatem;et;;Valga;2010;10;Metal;Heavy Metal;;man;
-1;;VA14;TLH;et;;Tallinn;"";"";Rock;Hard Rock;;man;
-1;;VA15;TLH;et;;Tallinn;"";"";Rock;Hard Rock;;man;
-1;;VA14;Morales;et;;"";"";"";;"";;"";EE
-1;;VA14;Corleon;et;;Tallinn;"";"";Rock;Blues- Rock fusion;;"";
-1;;VA14;Gravity;et;;Tartu;2010;"";Rock;Pop-Rock;;man;
-1;;VA14;STATICA;et;;Tallinn;2011;"";Metal;New Heavy Metal;;man;
-1;;VA14;The General Vicinity;et;;"Eesti, Kanada";2012;9;;Instrumentaalne;1;other;
-1;;VA14;Maria Stuart;et;;Tartu;2013;8;Rock;"";;woman;
-1;;VA14;Arles Kangus & Udu;et;;Viljandi;2012;"";;melancholic indie rock;;man;
-1;;VA14;Eysin;et;;Tallinn/Pärnu;2013;"0";Muu;"Neofolk, Noirjazz";;woman;
-1;;VA14;Mürk;et;;Tallinn;2013;"";Punk;"";;man;
-1;;VA14;Murky Minds;et;;Tallinn;2013;2;Rock;"";;womanandman;""
-1;;VA14;RAISK;et;;"";"";"";;"";;"";
-1;;VA14;R A I S K;et;;"";"";"";;"";;"";
-1;;VA14;Bollocks Boyfriend Brothers Band;et;;tartu;2003;7;Punk;kristlik agro punk;;man;
-1;;VA15;Flophouse Phonics;et;;Finland;2012;8;;Rock / Ska / Funk;;man;
-1;;VA15;Deformation;et;;Tartu;2011;9;Metal;hardcore/groove metal;;man;
-1;;VA15;Rotiküla Kõutsid;et;;Pärnu;"";"";Rock;"";;"";
-1;;VA15;RiiVA!;et;;Helsinki;2010;"0";Punk;"";;man;
-1;;VA15;Fumble Helsinki;et;;"";"";"";;"";;"";
-1;;VA15;Rising-Sun;et;;Tallinn;2007;"";Muu;Hard Rock;;man;
-1;;VA15;Hot Kommunist;et;;Tallinn;1996;5;Punk;Jazzprogepunk;;man;
+﻿selected;event;id;nonmusical;place;activesinceyear;activesincemonth;activesincetext;style;stylespecify;unplugged;singer;registration_country
+1;LA07;"07-18";;Vasalemma / Keila;2004;8;"2,5 aastat";Rock;"";;man;EE
+1;LA07;"07-25";;Keila;2003;10;3 a;;"";;other;EE
+;LA07;"07-16";;Haapsalu;2007;"";1.5 aastat;Punk;hardcore;;"";EE
+;LA07;"07-38";;Rakvere;"";""; paar aastat;;põrkepunk;;other;EE
+1;LA07;"07-67";;"";"";"";"1,5 a.";;"";;"";EE
+1;LA07;"07-34";;Pärnu;2005;"0";2 aastat ja veidi peale;;Alternatiiv;;man;EE
+1;LA07;"07-58";;"";"";"";8. kuud;;"";;"";
+1;LA07;"07-58";;Tartu;2007;4;8. kuud;Rock;räppi sugemetega;;man;
+1;LA07;"07-72";;"";"";"";2004 - ?;;"";;"";
+1;LA07;"07-47";;Tallinn;2002;"0";2002;Rock;post grunge;;man;EE
+1;LA07;"07-46";;Ahja;2007;4;7 kuud;;"";;"";EE
+1;LA07;"07-30";;eesti/briti;2003;"";2003;Rock;"punk, pub-rock, new wave";;man;EE
+1;LA07;"07-76";;"";"";"";umbes 25 aastat;;"";;man;
+;LA07;"07-17";;Pärnumaa metsadest ikka;2004;11;2a;Punk;"";;man;RD
+;LA07;"07-15";;;;;2006 jaanuarist;;;;;
+;LA07;"07-14";;;;;alates 2005;;;;;RD
+;LA07;"07-12";;;;;Aasta ja vähe peale! :);;;;;EE
+1;LA07;"07-21";;;;;3a;;;;;
+1;LA07;"07-22";;;;;2 aastat;;;;;unkown
+1;LA07;"07-23";;;;;15 kuud;;;;;EE
+;LA07;"07-24";;;;;"2,5aastat";;;;;EE
+1;LA07;"07-26";;;;;"";;;;;EE
+1;LA07;"07-51";;;;;1 aasta;;;;;EE
+;LA07;"07-27";;;;;pool aastat;;;;;EE
+;LA07;"07-28";;;;;alates 2003 sügis;;;;;EE
+1;LA07;"07-29";;;;;2 aastat;;;;;EE
+1;LA07;"07-31";;;;;2003;;;;;EE
+1;LA07;"07-33";;;;;5 aastat;;;;;EE
+1;LA07;"07-35";;;;;8 kuud;;;;;
+1;LA07;"07-36";;;;;13;;;;;
+1;LA07;"07-37";;;;;4 kuud;;;;;EE
+;LA07;"07-39";;;;;"1,5 aastat";;;;;EE
+;LA07;"07-40";;;;;u.3 aastat;;;;;EE
+;LA07;"07-41";;;;;üle aasta;;;;;EE
+;LA07;"07-42";;;;;"";;;;;EE
+;LA07;"07-43";;;;;3 a;;;;;EE
+;LA07;"07-44";;;;;2 aastat;;;;;
+1;LA07;"07-45";;;;;2 aastat;;;;;EE
+1;LA07;"07-48";;;;;1 aasta;;;;;EE
+;LA07;"07-49";;;;;5 kuud;;;;;EE
+1;LA07;"07-57";;;;;1.a;;;;;EE
+;LA07;"07-50";;;;;1 aasta.;;;;;EE
+;LA07;"07-53";;;;;1.5.aastat;;;;;
+1;LA07;"07-54";;;;;4 aastat;;;;;
+;LA07;"07-55";;;;;2002;;;;;EE
+;LA07;"07-56";;;;;9 kuud;;;;;EE
+1;LA07;"07-60";;;;;1 aasta;;;;;
+;LA07;"07-61";;;;;"1,5.a";;;;;EE
+1;LA07;"07-62";;;;;"1,5 aastat";;;;;EE
+;LA07;"07-63";;;;;"1,5 aastat";;;;;EE
+1;LA07;"07-64";;;;;"2,5 aastat";;;;;EE
+;LA07;"07-65";;;;;"0,75";;;;;EE
+;LA07;"07-59";;;;;------;;;;;EE
+;LA07;"07-66";;;;;4 aastat;;;;;
+;LA07;"07-52";;;;;aasta??..;;;;;EE
+;LA07;"07-68";;;;;3 kuud;;;;;EE
+1;LA07;"07-70";;;;;3 aastat;;;;;
+;LA07;"07-71";;;;;"1,5 a";;;;;EE
+;LA07;"07-73";;;;;1 aasta;;;;;
+1;LA07;"07-74";;;;;peaaegu aasta;;;;;EE
+;LA07;"07-75";;;;;1 aasta;;;;;EE
+;LA07;"07-69";;;;;"";;;;;
+1;LA07;"07-77";;;;;2 aastat;;;;;""
+1;LA07;"07-78";;;;;"";;;;;""
+1;LA07;"07-79";;;;;"";;;;;""
+;LA08;"08-136";;Tallinn;2007;"";1 aasta;Rock;Lo FI;;man;
+;LA09;"09-37";;Tallinn;2007;"";2 aastat;Rock;Lo FI;;man;EE
+1;LA09;"09-6";;Tallinn;2008;1;"1,5 aastat";;Pop/Rock/Alernative;;womanandman;EE
+;LA09;"09-13";;Tallinn;2007;6;2 aastat;Rock;"";;"";EE
+;LA08;"08-100";;Tallinn;2006;"";anno 2006.;Rock;Alternative;;man;unkown
+;LA09;"09-53";;Tallinn;2006;"";Alates 2006;Rock;Alternative;;man;unkown
+1;LA08;"08-102";;Vasalemma / Keila;2004;8;"3,5 aastat";Rock;"";;man;EE
+1;LA09;"09-42";;Vasalemma / Keila;2004;8;5 aastat;Rock;"";;man;EE
+;LA08;"08-124";;eesti;2007;10;5.234 kuud;Punk;"";1;womanandman;
+;LA09;"09-12";;eesti;2007;10;"1,5 aastat";Punk;"";1;womanandman;unkown
+1;LA09;"09-56";;"Helsinki, Finland";2006;"";2005 - (current line-up since end of 2008);;Rock;;woman;FI
+1;LA09;"09-70";;"1992-1994, 2005 -";2006;1;7;Punk;Sunny Punk Meets Dark Rock;;man;FI
+;LA09;"09-5";;Keila;2001;5;alates 2001 juuni 23 ;;Keldri;;man;EE
+;LA09;"09-34";;Tallinn;2008;5;"";Metal;Black/Death Metal;;"";EE
+;LA09;"09-47";;Keila;2003;10;5.aastat;;"";;other;EE
+1;LA09;"09-14";;Latvia;2008;"";1 year;;Hard rock;;man;LV
+;LA09;"09-21";;Jüri;2008;3;1 aasta ;;Klassikaline Rock;;man;EE
+1;LA08;"08-66";;Hiiumaa;2005;3;varsti saabki kolm aastat täis;Punk;HardcorePop;;"";EE
+1;LA09;"09-41";;Hiiumaa;2005;3;neli aastat;Punk;HardcorePop;;"";unkown
+;LA09;"09-101";;"";"";"";u 2a.;;"";;"";EE
+1;LA09;"09-97";;Tallinn;"";"";1 aasta;Rock;"";;"";EE
+1;LA08;"08-130";;Tallinn;1998;5;10a;Punk;"";;womanandman;
+1;LA09;"09-92";;Tallinn;1998;5;11.a.;Punk;"";;womanandman;EE
+1;LA09;"09-15";;Tallinn;2008;6;"1,5a";;Elektropunkrokk;;man;EE
+1;LA09;"09-17";;harjumaa;2009;"0";alates oktoober 2008;;alternatiivne pop punkrock;;womanandman;EE
+;LA09;"09-104";;Latvia;2008;8;2008;;Melodic Metal;;man;LV
+;LA08;"08-71";;Haapsalu;2007;"";1. aasta;Punk;hardcore;;"";EE
+;LA09;"09-7";;Haapsalu;2007;"";"2,5 aastat";Punk;hardcore;;"";EE
+;LA09;"09-105";;Rakvere;"";"";üsna mitu aastat;;põrkepunk;;other;EE
+;LA09;"09-118";;Viljandi;2008;"";1 aasta;;"Indie, Alternatiivrokk";;man;EE
+;LA08;"08-167";;"";"";"";"2,5 aastat";;"";;"";
+;LA09;"09-73";;"";"";"";3 aastat;;"";;"";EE
+1;LA09;"09-66";;Tallinn;2005;"";4 aastat;;indiemonkeyfunkeyreggaedrumandbass;;"";EE
+;LA08;"08-180";;Pärnu;2005;3;3 aastat;Rock;punkLuckrock;;man;EE
+1;LA09;"09-91";;Pärnu;2005;3;23.04.2005;Rock;punkLuckrock;;man;EE
+1;LA08;"08-129";;Riga - Latvia;2006;"";3;Muu;post hardcore;;man;LV
+1;LA09;"09-75";;Tallinn;2007;"";2 aastat;Rock;"";;man;EE
+1;LA08;"08-79";;Saaremaa;2002;3;6 aastat;Punk;rock;;man;EE
+;LA09;"09-79";;Saaremaa;2002;3;7 aastat;Punk;rock;;man;EE
+;LA08;"08-163";;Tartu;2008;2;1-2 kuud;Rock;Funk-kantri-jne;;man;EE
+;LA09;"09-59";;Tartu;2008;2;aasta;Rock;Funk-kantri-jne;;man;EE
+1;LA08;"08-75";;Tallinn;2007;"";Umbmäärane;Rock;"";;man;
+1;LA08;"08-67";;Pärnu;2005;"0";alates 2005;;Alternatiiv;;man;EE
+;LA09;"09-4";;Pärnu;2005;"0";4 aastat;;Alternatiiv;;man;EE
+1;LA08;"08-193";;"";"";"";2 aastat;;"";;"";EE
+1;LA08;"08-193";;Tartu;2007;4;2 aastat;Rock;räppi sugemetega;;man;EE
+1;LA08;"08-139";;"";"";"";4;;"";;"";
+;LA09;"09-115";;"";"";"";5 aastat;;"";;"";EE
+;LA09;"09-119";;Tartu linn;1990;"0";"1990-1995,  2009-.....";;"";;"";EE
+1;LA09;"09-2";;"Saku, Eesti";2008;1;"1,5 aastat";Rock;Alternatiiv;;woman;EE
+;LA09;"09-131";;Tallinn;2008;8;Alates 2008 sügisest;Rock;"";;man;unkown
+1;LA08;"08-197";;Latvia Rigga Town;2004;9;"";Metal;Alternative Metal;;man;
+;LA09;"09-95";;Latvia Rigga Town;2004;9;5 years;Metal;Alternative Metal;;man;LV
+;LA09;"09-24";;Tallinn;2008;2;Märtsist 2008;;Mahe ja meeldiv;;man;EE
+;LA09;"09-123";;Tallinn;2008;2;1 aasta;;Alternatiivne;;man;unkown
+;LA09;"09-99";;"Riga, Latvia";2009;1;2009;Metal;"Alternative Metal, Alternative Rock";;man;LV
+1;LA08;"08-140";;"";"";"";umbes kaks ja pool aastat;;"";;"";EE
+1;LA09;"09-72";;"";"";"";"3,5 a";;"";;"";EE
+1;LA08;"08-140";;Kehra;2005;9;umbes kaks ja pool aastat;;"";;woman;EE
+1;LA09;"09-72";;Kehra;2005;9;"3,5 a";;"";;woman;EE
+;LA08;"08-187";;Tallinn;"";"0";2 a.;Rock;rockrock;;woman;EE
+1;LA08;"08-147";;Sweden;2006;"0";2½;;Soul/Rock;;woman;
+;LA08;"08-110";;Tallinn;2007;"";1 aasta;;Doom;;"";EE
+;LA09;"09-40";;"";"";"";"2,5a";;"";;"";unkown
+1;LA09;"09-103";;Finland;2006;5;3;Metal;Alternative;;man;FI
+;LA09;"09-134";;Tallinn;2008;6;2 aastat;Rock;"";;man;EE
+;LA09;"09-96";;Viljandi;2009;"";6kuud;;Ökometal;;"";EE
+1;LA09;"09-140";;Tallinn;2009;3;;Metal;Thrash Metal;;"";EE
+1;LA08;"08-141";;"";"";"";alates 2007 suvi;;"";;"";EE
+;LA09;"09-136";;"";"";"";2 aastat;;"";;"";EE
+;LA09;"09-110";;Tallinn;2008;10;umbes 7-8 kuud;;Hard/Glam Rock;;man;EE
+1;LA08;"08-82";;"";2003;"";Väga vahelduva eduga 6 aastat;Rock;"";;man;
+;LA09;"09-78";;"";2003;"";3 aastat;Rock;"";;man;unkown
+;LA08;"08-106";;Tallinn;"";"";mootor käivitati 2008 aasta alguses;Metal;100 mp/h hard rock;;man;RESERVED
+1;LA08;"08-138";;"";"";"";ammu;;"";;man;EE
+1;LA09;"09-39";;Kohila;2009;"";ca 1 aasta;Rock;"";;man;unkown
+1;LA08;"08-196";;"";"";"";"";;"";;"";EE
+;LA09;"09-65";;"";"";"";aastast 1989;;"";;"";EE
+1;LA08;"08-181";;"Helsinki, Finland";2006;5;2;Rock;Alternative;;woman;""
+;LA09;"09-61";;"Helsinki, Finland";2006;5;"06.06.2006";Rock;Alternative;;woman;""
+1;LA08;"08-179";;"Vilnius, Lithuania";2006;9;2;Rock;Alternative;;man;""
+;LA09;"09-28";;"Vilnius, Lithuania";2006;9;2;Rock;Alternative;;man;""
+1;LA08;"08-99";;"Joensuu, Finland";2005;"0";lord knows.. cant count to so much.;;skapunk;;man;""
+1;LA09;"09-23";;"Joensuu, Finland";2005;"0";"Too many, but no end in sight...";;skapunk;;man;""
+;LA08;"08-95";;Pärnumaa metsadest ikka;2004;11;3 aastat;Punk;"";;man;EE
+;LA09;"09-109";;Pärnumaa metsadest ikka;2004;11;"Pea, et 5 aastat";Punk;"";;man;""
+1;LA08;"08-109";;Pärnu;2007;6;8-9 kuud;Rock;vanakooli rokk;;other;EE
+;LA09;"09-63";;Pärnu;2007;6;suvel saab 2 aastat;Rock;vanakooli rokk;;other;EE
+1;LA09;"09-1";;Kallaste;1999;1;8 aastat;;Thrashy alternative metal;;man;""
+1;LA09;"09-58";;"";2000;9;7;Folk;turbofolk;;man;""
+;LA08;"08-155";;Sweden/Malta;2005;2;?;Metal;Alternative metal;;woman;SE
+1;LA08;"08-145";;"";"";"";10a;;"";;man;""
+;LA09;"09-50";;Tallinn;2008;7;1 aasta;Metal;Groove Metal;;womanandman;EE
+;LA08;"08-73";;"";"";"";1a;;"";;"";
+;LA08;"08-76";;;;;alates September 2007;;;;;EE
+1;LA08;"08-74";;;;;8 kuud selles koosseisus;;;;;
+1;LA08;"08-69";;;;;3 aastat;;;;;
+;LA08;"08-70";;;;;"1,5 aastat";;;;;
+;LA08;"08-72";;;;;"Üks koma pool (1,5 mhmh)";;;;;EE
+;LA08;"08-68";;;;;alates okt või nov 2007;;;;;EE
+;LA08;"08-77";;;;;umbes 5 aastat;;;;;
+1;LA08;"08-78";;;;;alates sept 2006;;;;;EE
+1;LA08;"08-80";;;;;1 aasta.;;;;;
+;LA08;"08-81";;;;;Alates Sept 2006;;;;;
+;LA08;"08-83";;;;;3;;;;;
+;LA08;"08-84";;;;;2a;;;;;
+;LA08;"08-85";;;;;Pronksööl sündinud;;;;;unkown
+;LA08;"08-86";;;;;"üle kahe aasta, pausidega";;;;;
+;LA08;"08-87";;;;;"u. 1,5a";;;;;
+1;LA08;"08-88";;;;;4 a;;;;;
+;LA08;"08-89";;;;;8 aastat;;;;;
+;LA08;"08-90";;;;;"1,5 aastat";;;;;
+;LA08;"08-92";;;;;1aasta;;;;;
+;LA08;"08-93";;;;;kaks ja pool aastat;;;;;
+1;LA08;"08-94";;;;;"1 aasta, 3 kuud";;;;;
+1;LA08;"08-96";;;;;nii 10-11 aastat (vahelduva eduga);;;;;
+1;LA08;"08-198";;;;;"";;;;;
+1;LA08;"08-182";;;;;7 kuud;;;;;
+1;LA08;"08-97";;;;;poolteist aastat;;;;;
+;LA08;"08-98";;;;;alates 2006 sügis;;;;;
+;LA08;"08-101";;;;;"1,5 aastat";;;;;
+;LA08;"08-103";;;;;3.a;;;;;
+1;LA08;"08-104";;;;;"1,5 aastat";;;;;
+;LA08;"08-105";;;;;asutatud 7.jaanuar 2008;;;;;
+1;LA08;"08-107";;;;;2005 aasta märts;;;;;
+1;LA08;"08-108";;;;;2 aastat;;;;;
+1;LA08;"08-111";;;;;1 aasta;;;;;EE
+;LA08;"08-112";;;;;6 kuud;;;;;
+;LA08;"08-113";;;;;2007.a jaanuar;;;;;EE
+1;LA08;"08-114";;;;;1a;;;;;
+1;LA08;"08-115";;;;;4;;;;;
+;LA08;"08-116";;;;;3 aastat;;;;;
+;LA08;"08-117";;;;;2 aastat;;;;;
+1;LA08;"08-118";;;;;3 aastat;;;;;EE
+;LA08;"08-119";;;;;8 kuud;;;;;
+1;LA08;"08-120";;;;;8 aastat;;;;;EE
+;LA08;"08-121";;;;;2 aastat;;;;;
+1;LA08;"08-122";;;;;saab lellealternatiivil viis aastat;;;;;EE
+1;LA08;"08-123";;;;;juulis täitub aasta;;;;;
+;LA08;"08-126";;;;;alates naistepäevast '94;;;;;
+;LA08;"08-127";;;;;alates 2003 sügis;;;;;unkown
+;LA08;"08-174";;;;;3;;;;;LV
+1;LA08;"08-128";;;;;4;;;;;FI
+;LA08;"08-131";;;;;"0,5 aastat";;;;;EE
+;LA08;"08-132";;;;;"1,5 aastat";;;;;EE
+;LA08;"08-133";;;;;5 a;;;;;EE
+1;LA08;"08-134";;;;;8;;;;;
+;LA08;"08-135";;;;;3 a;;;;;
+;LA08;"08-137";;;;;1.5 aastat;;;;;
+1;LA08;"08-142";;;;;2007;;;;;LV
+1;LA08;"08-143";;;;;From the spring of 2006;;;;;unkown
+1;LA08;"08-144";;;;;2005;;;;;LV
+1;LA08;"08-146";;;;;5;;;;;
+;LA08;"08-148";;;;;1;;;;;
+;LA08;"08-149";;;;;1 year with this name. ;;;;;SE
+1;LA08;"08-150";;;;;7;;;;;
+;LA08;"08-151";;;;;5 aastat;;;;;
+;LA08;"08-152";;;;;2;;;;;
+;LA08;"08-153";;;;;"1,5 aastat";;;;;EE
+;LA08;"08-154";;;;;2;;;;;
+1;LA08;"08-156";;;;;2;;;;;
+;LA08;"08-157";;;;;½ a year;;;;;SE
+1;LA08;"08-158";;;;;2;;;;;FI
+1;LA08;"08-159";;;;;6;;;;;LV
+;LA08;"08-160";;;;;one year;;;;;LV
+;LA08;"08-161";;;;;2;;;;;LV
+;LA08;"08-169";;;;;teadmata;;;;;
+;LA08;"08-162";;;;;3 kuud;;;;;EE
+;LA08;"08-176";;;;;almost 2 years;;;;;LV
+;LA08;"08-165";;;;;6 aastat;;;;;EE
+1;LA08;"08-166";;1998;;;10 years;;;;;EE
+;LA08;"08-188";;;;;"1,5 aastat";;;;;
+1;LA08;"08-168";;;;;7;;;;;SE
+;LA08;"08-170";;;;;since 2005;;;;;LV
+;LA08;"08-171";;;;;2 aastat;;;;;EE
+;LA08;"08-172";;;;;2006 - 2008;;;;;unkown
+;LA08;"08-173";;;;;7 kuud;;;;;EE
+;LA08;"08-175";;;;;~ 1 a.;;;;;
+;LA08;"08-177";;;;;2007;;;;;unkown
+;LA08;"08-178";;;;;2 kuud;;;;;EE
+;LA08;"08-183";;;;;pool aastat;;;;;EE
+;LA08;"08-184";;;;;8;;;;;
+1;LA08;"08-185";;;;;Saime just kolmeseks :);;;;;
+1;LA08;"08-186";;;;;2 aastat;;;;;EE
+;LA08;"08-189";;;;;1 a;;;;;EE
+;LA08;"08-190";;;;;around 1;;;;;SE
+;LA08;"08-191";;;;;alates 2004;;;;;EE
+1;LA08;"08-194";;;;;2004-2008;;;;;LV
+;LA08;"08-192";;;;;less than a year;;;;;LV
+1;LA08;"08-195";;;;;;;;;;
+1;LA08;"08-199";;;;;;;;;;
+1;LA08;"08-200";;;;;"";;;;;
+;LA09;"09-3";;;;;1 aasta;;;;;EE
+;LA09;"09-8";;;;;2 aastat;;;;;EE
+1;LA09;"09-9";;;;;4 aastat;;;;;EE
+1;LA09;"09-10";;;;;"1,5 aastat";;;;;unkown
+1;LA09;"09-11";;;;;juulis täitub 2 aastat;;;;;EE
+1;LA09;"09-16";;;;;4 kuud;;;;;unkown
+;LA09;"09-18";;;;;Alates 2007. juunist;;;;;EE
+;LA09;"09-19";;;;;"Kaks aastat, millest ~6 kuud on olnud aktiivsed.";;;;;unkown
+1;LA09;"09-20";;;;;4 years;;;;;LV
+;LA09;"09-22";;;;;5;;;;;FI
+;LA09;"09-25";;;;;4 aastat;;;;;unkown
+1;LA09;"09-26";;;;;alates 2007. aasta septembrist;;;;;EE
+;LA09;"09-27";;;;;"1,5 aastat";;;;;EE
+1;LA09;"09-29";;;;;"";;;;;EE
+;LA09;"09-30";;;;;2008 JUULIST;;;;;RESERVED
+1;LA09;"09-31";;;;;8;;;;;SE
+;LA09;"09-32";;;;;Hetkel aasta;;;;;unkown
+1;LA09;"09-33";;;;;algusaasta 2005;;;;;unkown
+1;LA09;"09-35";;;;;alates 14. september 2006;;;;;unkown
+;LA09;"09-36";;;;;"1,5 aastat";;;;;unkown
+;LA09;"09-38";;;;;"2,5a";;;;;unkown
+1;LA09;"09-44";;;;;2 aastat;;;;;unkown
+;LA09;"09-45";;;;;5 aastat;;;;;unkown
+1;LA09;"09-46";;;;;7;;;;;LV
+;LA09;"09-48";;;;;Üks koma viis aastat;;;;;EE
+1;LA09;"09-49";;;;;7;;;;;LV
+;LA09;"09-51";;;;;"~1,5";;;;;LV
+;LA09;"09-52";;;;;2 aastat;;;;;EE
+;LA09;"09-54";;;;;2;;;;;EE
+;LA09;"09-55";;;;;alates 2006 aasta sügis;;;;;unkown
+;LA09;"09-57";;;;;alates 2006 sügis;;;;;EE
+;LA09;"09-60";;;;;1 aasta;;;;;EE
+;LA09;"09-62";;;;; Aasta;;;;;EE
+1;LA09;"09-64";;;;;2 aastat;;;;;EE
+;LA09;"09-67";;;;;6;;;;;SE
+;LA09;"09-68";;;;;4 aastat;;;;;unkown
+;LA09;"09-69";;;;;2005 -- now;;;;;unkown
+;LA09;"09-71";;;;;"08 sügisest";;;;;unkown
+1;LA09;"09-74";;;;;about 1 year;;;;;LV
+1;LA09;"09-76";;;;;3-4;;;;;SE
+1;LA09;"09-77";;;;;6;;;;;SE
+;LA09;"09-80";;;;;since 2003;;;;;LV
+;LA09;"09-81";;;;;2 aastat;;;;;EE
+;LA09;"09-82";;;;;1 aasta;;;;;unkown
+;LA09;"09-83";;;;;7 aastat;;;;;unkown
+;LA09;"09-84";;;;;"1,5 aastat";;;;;unkown
+;LA09;"09-85";;;;;2-3 aastat;;;;;unkown
+;LA09;"09-86";;;;;aktiivsemalt augustist 2008;;;;;unkown
+1;LA09;"09-87";;;;;Selles koosseisus alates 2009 algusest;;;;;EE
+;LA09;"09-88";;;;;1;;;;;SE
+1;LA09;"09-89";;;;;3;;;;;LV
+1;LA09;"09-90";;;;;"1,5 aastat";;;;;unkown
+;LA09;"09-93";;;;;~3;;;;;LV
+;LA09;"09-94";;;;;4;;;;;LV
+;LA09;"09-98";;;;;2;;;;;MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF
+;LA09;"09-100";;;;;3 kuud;;;;;EE
+;LA09;"09-102";;;;;5 a;;;;;EE
+;LA09;"09-106";;;;;2;;;;;LV
+1;LA09;"09-107";;;;;2;;;;;SE
+;LA09;"09-108";;;;;alates sügis 2008;;;;;EE
+1;LA09;"09-111";;;;;~1 a.;;;;;EE
+;LA09;"09-112";;;;;2008-2009;;;;;SE
+;LA09;"09-113";;;;;pool aastat;;;;;EE
+;LA09;"09-114";;;;;"0,5 aastat";;;;;unkown
+;LA09;"09-116";;;;;5;;;;;FI
+;LA09;"09-117";;;;;1;;;;;unkown
+;LA09;"09-120";;;;;4a;;;;;EE
+;LA09;"09-121";;;;;alates 1994;;;;;unkown
+;LA09;"09-122";;;;;aasta;;;;;EE
+;LA09;"09-124";;;;;2 aastat;;;;;unkown
+;LA09;"09-125";;;;;Umbes 2 aastat;;;;;unkown
+1;LA09;"09-126";;;;;1 aasta;;;;;unkown
+;LA09;"09-127";;;;;aasta;;;;;EE
+;LA09;"09-128";;;;;2 aastat;;;;;EE
+;LA09;"09-129";;;;;2 aastat;;;;;EE
+1;LA09;"09-130";;;;;üle 2 aasta;;;;;SE
+;LA09;"09-132";;;;;4;;;;;EE
+;LA09;"09-133";;;;;5 aastat;;;;;unkown
+1;LA09;"09-135";;;;;3 kuud;;;;;unkown
+;LA09;"09-137";;;;;1991;;;;;
+1;LA09;"09-138";;;;;1 year;;;;;
+1;LA09;"09-139";;;;;4 years;;;;;
+1;LA09;"09-141";;;;;6 kuud;;;;;
+1;LA09;"09-142";;;;;;;;;;
+1;LA09;"09-143";;;;;;;;;;
+1;LA09;"09-144";;;;;"";;;;;EE
+;LA10;band-2;;Jõhvi;2008;"";;;Funky Indie-rokk;;"";EE
+;LA11;band-2;;Jõhvi;2008;"";;;Funky Indie-rokk;;"";EE
+;LA10;band-3;;Tallinn;2010;"0";;;Freaky:Rock;;womanandman;
+;LA10;band-4;;Tallinn;2007;"";;Rock;Lo FI;;man;
+;LA10;band-5;;Tallinn;2008;1;;;Pop/Rock/Alernative;;womanandman;
+;LA10;band-6;;Tallinn;2008;10;;Rock;"";;"";
+1;LA10;band-7;;Tallinn;2007;6;;Rock;"";;"";
+;LA10;band-8;;Nõo;"";"";;;"";;"";
+;LA10;band-9;;Tallinn;2006;"";;Rock;Alternative;;man;
+1;LA10;band-10;;Vasalemma / Keila;2004;8;;Rock;"";;man;EE
+;LA11;band-10;;Vasalemma / Keila;2004;8;;Rock;"";;man;EE
+;LA10;band-11;;Sweden;2001;"0";;Metal;"";;man;
+;LA10;band-12;;eesti;2007;10;;Punk;"";1;womanandman;
+;LA11;band-12;;eesti;2007;10;;Punk;"";1;womanandman;
+;VA13;band-12;;eesti;2007;10;;Punk;"";1;womanandman;
+;VA14;band-12;;eesti;2007;10;;Punk;"";1;womanandman;
+;LA10;band-13;;Kolga-Jaani/Viljandi;2007;3;;;"indie rock folk,grunge ning elektroonilisete mõjutustega";;man;EE
+;LA11;band-13;;Kolga-Jaani/Viljandi;2007;3;;;"indie rock folk,grunge ning elektroonilisete mõjutustega";;man;EE
+1;LA10;band-14;;"Helsinki, Finland";2006;"";;;Rock;;woman;FI
+;LA11;band-14;;"Helsinki, Finland";2006;"";;;Rock;;woman;FI
+;VA14;band-14;;"Helsinki, Finland";2006;"";;;Rock;;woman;FI
+;VA15;band-14;;"Helsinki, Finland";2006;"";;;Rock;;woman;FI
+;LA10;band-15;;"Jelgava, Latvia";2007;8;;Rock;"";;man;LV
+1;LA10;band-16;;Helsinki;2006;1;;Punk;Sunny Punk Meets Dark Rock;;man;
+1;LA10;band-18;;Tallinn;"";"";;;Lo Fi;;man;
+;LA10;band-19;;"Latvia, Riga";2008;8;;;hardcore / groove metal;;man;
+1;LA10;band-20;;"Riga, Latvia";2000;6;;Punk;ska/punk;;man;LV
+1;LA10;band-21;;"Riga, Latvia";2002;10;;;pop punk/powerpop;;man;LV
+;LA11;band-21;;"Riga, Latvia";2002;10;;;pop punk/powerpop;;man;LV
+;LA10;band-22;;Keila;2001;5;;;Keldri;;man;EE
+;LA10;band-23;;Tallinn;2008;5;;Metal;Black/Death Metal;;"";EE
+1;LA10;band-24;;Keila;2003;10;;;"";;other;EE
+;LA10;band-25;;Latvia;2008;"";;;Hard rock;;man;LV
+;LA11;band-25;;Latvia;2008;"";;;Hard rock;;man;LV
+1;LA10;band-26;;"Helsinki, Finland";2010;"0";;Rock;"";;man;FI
+;LA11;band-26;;"Helsinki, Finland";2010;"0";;Rock;"";;man;FI
+;LA10;band-27;;Egypt;2005;1;;Punk;Hardcore Metal;;woman;
+;LA10;band-28;;Tallinn/Saaremaa;2009;7;;Rock;"";;man;EE
+;LA11;band-28;;Tallinn/Saaremaa;2009;7;;Rock;"";;man;EE
+;LA10;band-29;;Keila;2009;8;;Punk;"";;man;EE
+;LA10;band-30;;"Helsinki, Finland";2007;11;;;"";;other;FI
+1;LA10;band-31;;"Helsinki, Finland";2000;"0";;Rock;Melodic / Indie Rock/Punk;;man;FI
+;LA11;band-31;;"Helsinki, Finland";2000;"0";;Rock;Melodic / Indie Rock/Punk;;man;FI
+;LA10;band-32;;Jüri;2008;3;;;Klassikaline Rock;;man;EE
+1;LA10;band-33;;Tallinn;"";"";;;"";;"";
+1;LA10;band-34;;Tallinn/Tartu;2007;2;;;Popp-rokk-kantri-rege-bluus;;man;
+;LA10;band-35;;Tallinn;2004;1;;;"";;man;RD
+1;LA10;band-36;;"Helsinki, Finland";2007;7;;;Hardcore / Electro / Punk;;other;EE
+;LA11;band-36;;"Helsinki, Finland";2007;7;;;Hardcore / Electro / Punk;;other;EE
+1;LA10;band-37;;"Kehtna, Raplamaa";2007;5;;;Gooti Nu;1;womanandman;
+;LA10;band-38;;"Helsinki, Finland";2006;9;;Rock;"";;man;
+1;LA10;band-39;;Hiiumaa;2005;3;;Punk;HardcorePop;;"";
+1;LA10;band-40;;Tartu;"";"";;Metal;"";;"";
+1;LA10;band-41;;"";"";"";;;"";;"";
+;LA10;band-42;;Tallinn;2009;"";;;stoner/riff/metal;;man;EE
+;LA11;band-42;;Tallinn;2009;"";;;stoner/riff/metal;;man;EE
+;LA10;band-43;;"Joensuu, Finland";2008;"0";;Rock;Grunge;;man;FI
+;LA10;band-44;;Tallinn;"";"";;Rock;"";;"";
+;LA10;band-45;;Tallinn.EST;2010;1;;Popp;Pop-jazz-Indie;;man;EE
+;LA10;band-46;;Tallinn;1998;5;;Punk;"";;womanandman;
+;LA10;band-47;;Finland;"";"";;Rock;Indie;;man;FI
+1;LA10;band-48;;Tallinn;2008;6;;;Elektropunkrokk;;man;EE
+;LA11;band-48;;Tallinn;2008;6;;;Elektropunkrokk;;man;EE
+;LA10;band-49;;harjumaa;2009;"0";;;alternatiivne pop punkrock;;womanandman;EE
+;LA10;band-50;;Muhu;2006;3;;;pagan metal;;man;EE
+;LA10;band-51;;Tallinn;2009;2;;Rock;Alternatiiv/Rock;;man;EE
+;LA11;band-51;;Tallinn;2009;2;;Rock;Alternatiiv/Rock;;man;EE
+;LA10;band-52;;Latvia;2008;8;;;Melodic Metal;;man;LV
+;LA11;band-52;;Latvia;2008;8;;;Melodic Metal;;man;LV
+;LA10;band-53;;Viljandi;2009;7;;;indie / rock;;man;
+;LA10;band-54;;Tallinn;2006;10;;;"Garage, Alternative";;man;EE
+;LA10;band-55;;Haapsalu;2007;"";;Punk;hardcore;;"";EE
+;LA11;band-55;;Haapsalu;2007;"";;Punk;hardcore;;"";EE
+;LA10;band-56;;Tallinn;2009;8;;Rock;"";;man;
+;LA10;band-57;;Tallinn;2007;9;;Rock;"";;man;EE
+;LA10;band-58;;Rakvere;"";"";;;põrkepunk;;other;EE
+;LA11;band-58;;Rakvere;"";"";;;põrkepunk;;other;EE
+;LA10;band-59;;Tartu;2008;"";;Metal;Post-hardcore;;"";
+1;LA10;band-60;;Tallinn;2004;7;;Rock;"";;man;EE
+;LA11;band-60;;Tallinn;2004;7;;Rock;"";;man;EE
+1;LA10;band-61;;Tartu;2008;"0";;Rock;indierock;;woman;
+1;LA10;band-62;;Riga;2007;6;;Elektrooniline;Disco;;woman;LV
+1;LA10;band-63;;Viljandi;2008;"";;;"Indie, Alternatiivrokk";;man;
+1;LA10;band-64;;Pärnu;2009;6;;;"Ska, Hardcore";;man;
+;LA10;band-65;;"";"";"";;;"";;"";
+;LA10;band-66;;Tallinn;2005;"";;;indiemonkeyfunkeyreggaedrumandbass;;"";
+;LA10;band-67;;Pärnu;2005;3;;Rock;punkLuckrock;;man;EE
+1;LA10;band-68;;Tallinn;2009;9;;;Progressive;;man;
+;LA10;band-69;;Eesti;2009;8;;Rock;alternatiivne;;man;
+;LA10;band-70;;Lahti;2010;"0";;Popp;Pop-Punk / Electronica;;man;FI
+;LA10;band-71;;Riga - Latvia;2006;"";;Muu;post hardcore;;man;
+;LA10;band-73;;Tallinn;2007;"";;Rock;"";;man;
+;LA10;band-74;;Stockholm-Sweden;2002;"";;;Alternative punkrock;;man;
+;LA10;band-75;;Nõo;2006;8;;Punk;agropunk...teeme asju seinast seina;;man;EE
+;LA10;band-76;;Saaremaa;2002;3;;Punk;rock;;man;EE
+;LA11;band-76;;Saaremaa;2002;3;;Punk;rock;;man;EE
+;LA10;band-77;;"Valgamaa, Aakre";"";"";;;Melodic Deathcore;;man;
+;LA11;band-77;;"Valgamaa, Aakre";"";"";;;Melodic Deathcore;;man;
+1;LA10;band-78;;Tartu;2008;2;;Rock;Funk-kantri-jne;;man;EE
+;LA10;band-79;;Tallinn;2007;"";;Rock;"";;man;
+1;LA10;band-80;;"";"";"";;;"";;"";
+1;LA10;band-81;;Pärnu;2005;"0";;;Alternatiiv;;man;EE
+;LA11;band-81;;Pärnu;2005;"0";;;Alternatiiv;;man;EE
+;LA10;band-82;;Tartu;2007;"";;;Rock/psühhedeelia/punk;;man;
+;LA10;band-83;;Jõgeva;2008;"";;;funk/ska/pop;;man;EE
+;LA10;band-84;;Viinistu;2009;1;;Rock;"";;woman;
+1;LA10;band-86;;Tallinn;1998;"";;;"";;"";
+1;LA10;band-87;;TAL;2008;7;;;"";;"";""
+;LA10;band-88;;"Gothenburg, Sweden";2009;5;;Popp;Pop with elements of punk and free improvisation;;woman;
+1;LA10;band-89;;Tartu;2007;4;;Rock;räppi sugemetega;;man;
+;LA11;band-89;;Tartu;2007;4;;Rock;räppi sugemetega;;man;
+;VA13;band-89;;Tartu;2007;4;;Rock;räppi sugemetega;;man;
+;VA14;band-89;;Tartu;2007;4;;Rock;räppi sugemetega;;man;
+;LA10;band-90;;Helsinki;"";"";;Rock;Rock;;"";
+1;LA10;band-91;;"Vihti, Finland";2008;"0";;Metal;"Death Metal, Progressive";;man;FI
+;LA10;band-93;;"";"";"";;;"";;"";
+;LA10;band-94;;"";"";"";;;"";;"";
+;LA10;band-95;;Tartu linn;1990;"0";;;"";;"";EE
+;LA11;band-95;;Tartu linn;1990;"0";;;"";;"";EE
+;LA10;band-96;;"Saku, Eesti";2008;1;;Rock;Alternatiiv;;woman;
+;LA10;band-97;;Tartu;2005;"";;;"";;"";
+;LA10;band-98;1;sweden;2008;"0";;;"";;"";
+;LA10;band-100;;Tallinn;2008;8;;Rock;"";;man;
+1;LA10;band-101;;Tallinn;2002;"0";;Rock;post grunge;;man;EE
+;LA11;band-101;;Tallinn;2002;"0";;Rock;post grunge;;man;EE
+1;LA10;band-102;;Tartu;"";"";;;"";;man;
+1;LA10;band-103;;Paide;2008;"";;;Triprock;;man;EE
+1;LA10;band-104;;Latvia Rigga Town;2004;9;;Metal;Alternative Metal;;man;
+1;LA10;band-105;;"Stockholm, Sweden";2005;1;;Rock;"Alernative, Indie, Stoner, and so on and so forth";;man;SE
+;LA10;band-106;;tartu;2009;9;;;stoner;;man;
+;LA10;band-107;;Tallinn;2008;2;;;Mahe ja meeldiv;;man;
+;LA10;band-108;;Kadrina;2009;"0";;;Alternative Punk;;man;EE
+;LA11;band-108;;Kadrina;2009;"0";;;Alternative Punk;;man;EE
+;LA10;band-109;;Tallinn;2008;2;;;Alternatiivne;;man;
+1;LA10;band-110;;"Ederstorp, Sverige";2008;3;;;Surf-Psych;;"";SE
+;LA11;band-110;;"Ederstorp, Sverige";2008;3;;;Surf-Psych;;"";SE
+;LA10;band-111;;"Stockholm, Sweden";2004;4;;;Protopunk/Psychedelic hardrock;;man;SE
+;LA11;band-111;;"Stockholm, Sweden";2004;4;;;Protopunk/Psychedelic hardrock;;man;SE
+;LA10;band-112;;stockholm sweden;2007;10;;Rock;Soft/rock;1;womanandman;
+;LA10;band-113;;"Riga, London, Sweden";2009;4;;Rock;"";;"";
+;LA10;band-114;;"Latvia, Riga";2009;"0";;Punk;hardcore;;man;
+;LA10;band-115;;"Riga, Latvia";2009;1;;Metal;"Alternative Metal, Alternative Rock";;man;LV
+1;LA10;band-117;;Kehra;2005;9;;;"";;woman;
+;LA11;band-117;;Kehra;2005;9;;;"";;woman;
+;LA10;band-118;;Eesti;1990;"0";;Rock;"";;man;EE
+;LA10;band-119;;Tallinn;"";"0";;Rock;rockrock;;woman;
+;LA10;band-120;;Tallinn;"";"";;Eksperimentaalne;"";;"";
+1;LA10;band-121;;"Riga, Pārdaugava";2007;"";;;post-folk;;womanandman;
+;LA10;band-122;;Sweden;2006;"0";;;Soul/Rock;;woman;
+;LA10;band-123;;"Maapealne, lihtsurelik";2009;11;;;Riffenroll;;man;EE
+;LA10;band-124;;tallinn;2009;10;;Muu;ambient/ pop;;womanandman;
+;LA10;band-125;;Tartu;2008;11;;;"";;man;
+;LA10;band-126;;Tallinn;2007;"";;;Doom;;"";
+1;LA10;band-127;;Laguja;2005;1;;Punk;pop/rock/punk;;woman;EE
+;LA10;band-128;;"";"";"";;;"";;"";
+;LA10;band-129;;"Hiiumaa, Kärdla";2009;2;;;Alternatiiv rokk;;man;EE
+;LA10;band-130;;Tartu;2010;"0";;;Träss;;man;
+;LA10;band-131;;LATVIA;2009;"";;Rock;ALTERNATIVE;;man;LV
+1;LA10;band-132;;"Estonia, Tallinn";2006;10;;Rock;Split Style;;man;
+;LA10;band-133;;Rīga (Latvia);2009;2;;Rock;"";;man;LV
+;LA10;band-134;;"Estonia, Tallinn";2005;"0";;Metal;Heavy/speed/thrash;;womanandman;
+;LA10;band-135;;Latvia;2004;3;;;Drive;;man;LV
+;LA11;band-135;;Latvia;2004;3;;;Drive;;man;LV
+;LA10;band-136;;Finland;2006;5;;Metal;Alternative;;man;
+;LA10;band-137;;"Riga, Latvia";2006;9;;;Dance Punk;;womanandman;LV
+;LA10;band-140;;"Rīga, Latvia";2007;"";;Punk;Melodic punk rock;;man;LV
+;LA11;band-140;;"Rīga, Latvia";2007;"";;Punk;Melodic punk rock;;man;LV
+1;LA10;band-141;;"Estonia, Tartu";2003;"";;;"";;"";SI
+;LA11;band-141;;"Estonia, Tartu";2003;"";;;"";;"";SI
+;LA10;band-142;;Riga (LV);2006;1;;;Grindcore;;man;LV
+1;LA10;band-144;;Tallinn;"";"";;;"";;man;
+;LA10;band-145;;Valmiera/Smiltene;2008;10;;;"";;"";LV
+;LA10;band-146;;"Riga, Latvia";2006;9;;Metal;progressive death metal;;man;
+1;LA10;band-147;;Tallinn;2008;6;;Rock;"";;man;EE
+;LA11;band-147;;Tallinn;2008;6;;Rock;"";;man;EE
+;LA10;band-148;;"";2007;2;;Rock;"post-punk, darkpop, tropical";;man;RU
+1;LA10;band-149;;"Valmiera, Latvia";2001;"0";;Rock;"";;man;LV
+;LA10;band-150;;Latvia - Riga;2002;9;;Metal;heavy dream metal;;womanandman;LV
+1;LA10;band-151;;"";"";"";;;"";;"";
+;LA10;band-152;;Viljandi;2009;"";;;Ökometal;;"";EE
+;LA10;band-153;;"";"";"";;;"";;"";
+;LA10;band-154;;"";"";"";;;"";;"";EE
+;LA10;band-155;;Tallinn;2009;4;;;"Post Hardcore, Punk";;man;
+1;LA10;band-157;;Pärnumaa;2000;7;;Rock;"";;womanandman;
+;VA13;band-157;;Pärnumaa;2000;7;;Rock;"";;womanandman;
+;VA15;band-157;;Pärnumaa;2000;7;;Rock;"";;womanandman;
+1;LA10;band-158;;Tallinn;2009;3;;;Progressive death/doom;;man;
+;LA10;band-160;;Tartu;2009;"0";;;"Isevalminud stiil, võimalik, et Indie";;other;
+1;LA10;band-161;;Ahja;2007;4;;;"";;"";
+;LA10;band-162;;"Riga, Latvia";2006;3;;;"Reggae, punk, ska, rock";;man;
+1;LA10;band-163;;Tallinn;2004;"";;Metal;Thrash Metal;;man;
+;LA10;band-164;;"Riga, Latvia";2006;"";;Metal;"";;woman;LV
+;LA10;band-165;;Tallinn;1995;9;;;"...,rock,metal...";;man;EE
+1;LA10;band-166;;Tallinn;2006;"";;;Alternatiiv;;man;EE
+;LA11;band-166;;Tallinn;2006;"";;;Alternatiiv;;man;EE
+;LA10;band-167;;Tallinn;2008;4;;Metal;meloodiline metal;;woman;
+1;LA10;band-168;;Tallinn;2009;11;;Popp;indie-pop;;"";
+;LA10;band-169;;"";"";"";;Punk;"";;man;
+1;LA10;band-170;;Tartu;2009;9;;Muu;"";;man;EE
+;LA10;band-171;;Pärnu;2009;4;;;Punk-Rock;;man;
+1;LA10;band-172;;Pärnu;2008;9;;Metal;Grindcore;;man;EE
+1;LA10;band-173;;"Gothenburg, Gothland (Sweden)";2009;2;;Rock;Alternative/Experimental/Rock/Punk/Surf/Hardcore/Stoner;;man;SE
+1;LA10;band-174;;"";"";"";;Jazz;"";;man;
+;LA10;band-175;;"Latvia,Riga";2006;8;;Punk;"";;man;LV
+1;LA10;band-176;;Tallinn;2009;"";;;"";;man;
+;LA10;band-177;;"Latvia, Riga/Balvi";2009;2;;;we call it dance rock;;man;LV
+1;LA10;band-178;;Pärnu;2009;2;;Hip Hop;Trip Hop;;"";
+;LA10;band-179;;"Riga,LV";2008;4;;Rock;Instrumental rock;;"";
+;LA10;band-180;;"Eesti, Tallinn";2009;7;;Metal;"";;womanandman;
+;LA10;band-181;;Tartu;2009;2;;;Hard-Rock;;man;EE
+;LA10;band-182;;"";"";"";;;"";;"";
+;LA10;band-183;;eesti/briti;2003;"";;Rock;"punk, pub-rock, new wave";;man;
+;LA10;band-185;;Latvia;1991;8;;;Progressive;;man;LV
+1;LA10;band-186;;"Latvia, Riga";2005;1;;Jazz;"Funky, Groovy";;woman;
+1;LA10;band-187;;Rapla;2003;4;;Rock;"";;"";
+;LA10;band-188;;"";"";"";;;"";;"";EE
+;LA10;band-190;;Lithuania;1995;10;;Rock;Classic/Progressive/Alternative;;womanandman;LT
+;LA11;band-190;;Lithuania;1995;10;;Rock;Classic/Progressive/Alternative;;womanandman;LT
+;LA10;band-191;;Latvia;2007;"0";;Rock;Alternatiiv :);;man;
+;LA10;band-192;;"Tartumaa, Kallaste";2006;4;;;"";;"";EE
+;LA10;band-193;;Latvia;2005;6;;Punk;Easycore;;man;LV
+;LA11;band-193;;Latvia;2005;6;;Punk;Easycore;;man;LV
+;LA10;band-194;;Tartu;2009;10;;Eksperimentaalne;"Indie, grunge,";;man;
+1;LA10;band-195;;Tartu;2009;10;;Elektrooniline;"Alternative, Post-Hardcore";;man;
+;LA10;band-196;;Võru;2004;2;;Metal;"";;man;EE
+;LA11;band-196;;Võru;2004;2;;Metal;"";;man;EE
+1;LA10;band-197;;"";"";"";;;"";;"";
+;LA10;band-198;;"Latvia, Riga";2009;6;;Rock;Glam rock Hit'Metal band;;man;LV
+;LA10;band-199;;Tallinn;2010;2;;Rock;Experimental/Alternative;;man;
+1;LA10;band-201;;Tallinn;2009;3;;Metal;Thrash Metal;;"";EE
+;LA10;band-202;;Pärnu;2009;"";;Rock;Punk Rock;;man;
+1;LA10;band-203;;Saue;2007;"";;Rock;Funk/surfrock/ska/reggae;;"";EE
+;LA10;band-204;;"";"";"";;;"";;"";
+;LA10;band-205;;"Riga - Jurmala, Latvia";2009;10;;;Alternative;;man;LV
+;LA10;band-206;;Tallinn;2006;"";;Metal;"";;man;EE
+;LA10;band-208;;"";"";"";;;"";;"";
+;LA10;band-209;;Tallinn;2008;10;;;Hard/Glam Rock;;man;EE
+;LA11;band-209;;Tallinn;2008;10;;;Hard/Glam Rock;;man;EE
+;LA10;band-210;;"";"";"";;;"";;"";
+;LA10;band-211;;Tartu;2010;"";;;Alternatiivrock;;"";EE
+;LA11;band-211;;Tartu;2010;"";;;Alternatiivrock;;"";EE
+;LA10;band-213;;Rakvere;2009;6;;Folk;"";;man;
+;LA10;band-214;;"";"";"";;;"";;"";
+;LA10;band-215;;tartu;2009;"";;;sõidu-seiklus&seisundimuusika;;"";
+;LA10;band-216;;Tartu;2009;5;;;Progressiivne;;woman;
+;LA10;band-217;;"Uppsala, Sweden";2008;8;;Popp;Indie;;man;
+;LA10;band-218;;"";"";"";;;"";;"";
+;LA10;band-219;;"";"";"";;;"";;"";
+;LA10;band-220;;"";2003;"";;Rock;"";;man;
+1;LA10;band-221;;"";2009;8;;Punk;"";;womanandman;FI
+1;LA10;band-222;;Kuressaare- Tallinn;2000;6;;Elektrooniline;"pervodisko, soundclub rock?, down tempo, jne";;other;
+1;LA10;band-223;;"";2002;"";;Rock;"";;man;EE
+1;LA10;band-224;;"";"";"";;;"";;"";EE
+1;LA10;band-225;;Eesti;"";"";;;"";;"";
+;LA10;band-226;;Tallinn;"";"";;Metal;"";;man;
+;LA10;band-227;;Gothenburg;2008;2;;Rock;Energetic;;man;
+1;LA10;band-228;;"Eesti, Tartu";2009;4;;;Metalcore;;"";EE
+;LA11;band-228;;"Eesti, Tartu";2009;4;;;Metalcore;;"";EE
+;LA10;band-229;;"Eesti, Paide";2010;1;;Metal;"";;man;
+;LA10;band-230;;Latvia - Salacgrīva/Liepāja/Auce;2005;10;;Metal;hardcore/metalcore/progressive;;man;LV
+;LA11;band-230;;Latvia - Salacgrīva/Liepāja/Auce;2005;10;;Metal;hardcore/metalcore/progressive;;man;LV
+1;LA10;band-231;;Tallinn/Kehra;2010;2;;;"";;woman;EE
+;LA10;band-232;;"Latvia, Sigulda";2003;11;;Metal;"";1;man;LV
+1;LA10;band-233;;"Haiba küla, 40 km Tallinnast Pärnu poole";2009;"";;;"";1;man;EE
+1;LA10;band-234;;"";2005;"";;;"";;womanandman;EE
+;LA11;band-234;;"";2005;"";;;"";;womanandman;EE
+;VA13;band-234;;"";2005;"";;;"";;womanandman;EE
+1;LA10;band-235;1;Tallinn;2006;"";;;"";;"";
+1;LA10;band-236;;Märjamaa-Sipa-Rapla;2008;11;;;punk-rock;;"";EE
+;LA11;band-236;;Märjamaa-Sipa-Rapla;2008;11;;;punk-rock;;"";EE
+1;LA10;band-237;;tallinn;2006;"";;Elektrooniline;eksperimentaal;;"";
+1;LA10;band-238;;karksi nuia;2000;"";;Elektrooniline;8bit;;"";
+1;LA10;band-239;;"";"";"";;Rock;"";;man;
+1;LA10;band-240;1;Eesti;2009;8;;;"";;"";
+1;LA10;band-242;;"";"";"";;;"";;man;
+;LA10;band-243;;"";2008;3;;Rock;"";;woman;
+;LA10;band-244;;Eesti;2009;1;;Rock;"";;man;
+;LA10;band-245;;Tallinn;2009;4;;;Torerock;;womanandman;
+;LA10;band-246;;"Kouvola, Finland";2008;"";;Metal;"Alternative, Progressive, Rock";;man;FI
+1;LA10;band-247;;"";"";"";;;"";;"";
+;VA15;band-247;;"";"";"";;;"";;"";
+;LA10;band-248;;Kohila;2009;"";;Rock;"";;man;
+1;LA10;band-249;;"";"";"";;;"";;"";EE
+;LA11;band-249;;"";"";"";;;"";;"";EE
+;VA14;band-249;;"";"";"";;;"";;"";EE
+;VA15;band-249;;"";"";"";;;"";;"";EE
+1;LA10;band-250;;Tallinn;2008;2;;Elektrooniline;"";;"";EE
+;LA10;band-251;;Pärnu;2009;8;;Punk;"";;man;
+1;LA10;band-252;;Kosmos;2009;5;;;"";;"";
+;LA10;band-253;;Tallinn;"";"";;Eksperimentaalne;"";;man;
+;LA10;band-254;;"Tallinn, Võru";"";"";;;"";;"";
+1;LA10;band-255;;"";"";"";;;"";;"";
+;LA10;band-256;;Tallinn;2009;10;;Rock;"";;woman;EE
+1;LA10;band-257;;Tallinn;2004;"";;Eksperimentaalne;"";;"";
+1;LA10;band-258;1;"";"";"";;;"";;"";
+1;LA10;band-259;1;"";"";"";;;"";;"";
+;LA10;band-261;;"Riga, Latvia";2009;9;;;post-hardcore/metalcore;;man;
+1;LA10;band-272;;Rapla;2008;11;;Jazz;elektroonika-jazz-karm;;man;""
+1;LA10;band-273;"0";"";"";"";;;"";;"";""
+;LA11;band-277;;"Kuldiga, Latvia";2009;11;;Rock;"";;man;""
+;LA11;band-278;;"Helsinki, Finland";2006;5;;Rock;Alternative;;woman;""
+;LA11;band-279;;Jõhvi;2010;1;;;Electro/metalcore;;man;EE
+;LA11;band-280;;"";"";"";;;"";;"";""
+;LA11;band-281;;"Vilnius, Lithuania";2006;9;;Rock;Alternative;;man;""
+;LA11;band-282;;Helsinki;2007;6;;Popp;Electro-Pop;;womanandman;FI
+;LA11;band-283;;Tallinn;2010;10;;Eksperimentaalne;corerap;1;man;EE
+;LA11;band-284;;Viljandi;2009;11;;Rock;"";;woman;EE
+;LA11;band-285;;PÄRNU;2010;"";;Muu;Folk-Punk;;man;EE
+;LA11;band-287;;Pärnu-Jaagupi;2000;7;;;"";;womanandman;""
+;LA11;band-288;;Ida-virumaa;2009;5;;Elektrooniline;digitaalne hardcore ja muud jama kokku segatud;;man;EE
+;LA11;band-294;;"Joensuu, Finland";2005;"0";;;skapunk;;man;""
+;LA11;band-295;;Tallinn-Keila-Nõmme;1989;2;;;Rock;;man;""
+;LA11;band-296;;Finland;2009;5;;Punk;Mixture of punk and rock baby!;;man;FI
+;LA11;band-297;;Tõrva;1998;"";;Metal;"";;"";""
+;LA11;band-298;;"Tampere, Finland";2009;6;;Muu;Rock´n´Growl;;man;""
+;LA11;band-299;;"Helsinki, Finland";2009;"";;;"";;man;FI
+;LA11;band-301;;Tallinn;2010;"";;Rock;Rockabilly;;man;EE
+;LA11;band-302;;Keila;2010;9;;;Alternative rock;;man;""
+;LA11;band-303;;"London, UK";2007;11;;Punk;"";;man;""
+;LA11;band-306;;Tallinn;2006;9;;;Garaaž;;womanandman;EE
+;LA11;band-307;;"Norrköping, Sweden";"";"";;Muu;Indie Rock;;man;SE
+;LA11;band-308;;Paide;2010;6;;Metal;metalcore/deathcore;;man;EE
+;LA11;band-309;;"Turku, FINLAND";2007;5;;Rock;"Mystic Rock, metal, alternative, grunge, blues";;man;""
+;LA11;band-310;;Tartu;2010;"0";;Metal;"";;man;EE
+;LA11;band-311;;Pärnumaa metsadest ikka;2004;11;;Punk;"";;man;""
+;VA13;band-311;;Pärnumaa metsadest ikka;2004;11;;Punk;"";;man;""
+;VA14;band-311;;Pärnumaa metsadest ikka;2004;11;;Punk;"";;man;""
+;LA11;band-313;;Paide;2010;6;;Rock;"";;man;""
+;LA11;band-314;;Tartu;2009;3;;;Alternative;;woman;EE
+;LA11;band-315;;Tallinn;2010;1;;Punk;"";;other;""
+;LA11;band-316;;Pärnu;2008;10;;;"";;"";EE
+;LA11;band-318;;"";"";"";;Rock;"";;"";""
+;LA11;band-319;;Järvakandi;2010;5;;;Metalcore/post-hardcore;;man;EE
+;LA11;band-323;;Tallinn;1990;8;;Rock;"";;"";EE
+;LA11;band-329;;Pärnu;2007;6;;Rock;vanakooli rokk;;other;EE
+;LA11;band-330;;"Tampere, Finland";2008;"";;Rock;"";;man;FI
+;LA11;band-331;;Tallinn;2008;3;;Metal;Thrash;;man;EE
+;LA11;band-332;;Tartu;2010;2;;;Alternative Pop/Rock;;man;EE
+;LA11;band-333;;"Latvia, Riga";2009;10;;;"";;man;LV
+;LA11;band-334;;Tallinn;2009;9;;;hard rock/heavy metal;;man;EE
+;LA11;band-335;;Tallinn;2006;"";;;Death metal/Experimental;;man;""
+;LA11;band-336;;Kallaste;1999;1;;;Thrashy alternative metal;;man;""
+;LA11;band-337;;Stato della Città del Vaticano;1999;"";;;glam / new wave;;"";EE
+;LA11;band-338;;Tallinn;2008;7;;Rock;"";;man;""
+;LA11;band-339;;"";"";"";;;"";;"";EE
+;LA11;band-340;;Bammarboda;2010;4;;;Disco | Rock | Svensk podiet;;womanandman;EE
+;LA11;band-341;;Tallinn;2010;"";;Eksperimentaalne;Alternatiivmuusika;;"";""
+;LA11;band-342;;Tallinn;2009;8;;;"";;woman;EE
+;LA11;band-343;;"";2000;9;;Folk;turbofolk;;man;""
+;LA11;band-344;;"Latvia, Riga";2009;9;;Rock;Alternative/Indie/Psychedelic;;man;""
+1;LA10;band-345;;"Tartu, Eesti";2005;"";;;Sarcastic;;man;EE
+;LA11;band-345;;"Tartu, Eesti";2005;"";;;Sarcastic;;man;EE
+;LA11;band-346;;Läänemaa;2009;3;;Rock;Soft;;womanandman;""
+;LA11;band-347;;Sweden/Malta;2005;2;;Metal;Alternative metal;;woman;SE
+;LA11;band-348;;Tallinn;2011;1;;;Alternative;;woman;EE
+;VA13;band-348;;Tallinn;2011;1;;;Alternative;;woman;EE
+;LA11;band-349;;Finland;2010;"";;Metal;"";;man;""
+;LA11;band-351;;"Finland, Helsinki";2004;"";;Muu;indierock;;"";FI
+;LA11;band-352;;"";"";"";;;"";;man;""
+;LA11;band-353;;"";2010;3;;;"";;"";""
+;LA11;band-354;;Finland;2009;"0";;Rock;Street;;man;""
+;LA11;band-355;;"";"";"";;;"";;"";EE
+;LA11;band-356;;Latvia;2009;"0";;Rock;New age pop punk rock;1;man;LV
+;LA11;band-357;;Tallinn;2010;1;;;"Alternatiiv rocki, rocki, pop-rocki hübriid, meelodilise vokaliga.";;man;EE
+;LA11;band-358;;Viljandimaa;2010;5;;Folk;folk-metal;;man;""
+;LA11;band-359;;Tallinn;2011;"0";;;Bluus-rock;;man;EE
+;LA11;band-360;;"Uppsala, Sweden";2008;8;;Popp;Rock;;man;SE
+;LA11;band-361;;"Savonlinna, Finland";2009;2;;Rock;"";;man;FI
+;LA11;band-362;;Pärnu;2011;"0";;;Alternatiiv/Post;;womanandman;""
+;LA11;band-363;;Latvia;2008;8;;;Celtic punk;;man;LV
+;LA11;band-364;;Pärnu;2010;11;;Rock;Alternative;;"";EE
+;LA11;band-365;;Tartu;2010;9;;;Sludge Metal;;man;EE
+;LA11;band-366;;Pärnu;2010;2;;;Alternatiiv;;woman;EE
+;LA11;band-367;;"";2008;"0";;;Melodic Death Metal;;man;EE
+;LA11;band-368;;Tallinn;2005;"";;Metal;heavy metal;;man;
+;LA11;band-369;;"Tartu, Eesti";"";"";;;"Jazz, Ambient, Jazz-Rock";;"";EE
+;LA11;band-370;;"Tallinn, Estonia";2006;7;;Metal;Alternative;;man;
+;LA11;band-371;;"Tallinn, Eesti";2008;5;;;Death metal / hardcore;;"";EE
+;LA11;band-372;;Tallinn;2007;"";;;"";;man;
+;LA11;band-373;;Kuusalu vald;2009;"";;Rock;"Alternatiivne. Mängime ka seda, mis esimesena pähe tuleb(jämm).";;woman;EE
+;LA11;band-374;;Tallinn;2011;1;;Punk;Electro-punk;;woman;
+;LA11;band-375;;Jõhvi;2010;11;;;"hard rock, hair metal";;"";
+;LA11;band-376;;Narva;2009;7;;Eksperimentaalne;post-rock;;man;
+;LA11;band-377;;"Helsinki/Tampere/Jyväskylä, Finland";2007;10;;Rock;"";;womanandman;
+;LA11;band-378;;"Tallinn, Eesti";2010;"0";;;Indie;1;womanandman;EE
+;LA11;band-379;;"Kouvola, Finland";2004;5;;Metal;Melodic Death Metal;;man;FI
+;LA11;band-380;;"Tampere, Finland";2008;"0";;;Riff-driven modern metal;;"";
+;LA11;band-381;;"Latvia, Riga";2009;5;;;Crossover rock;;womanandman;
+;LA11;band-382;;"Helsinki, Finland";2009;6;;Punk;Hardcore/punk;;man;
+;LA11;band-383;;"Riga, Latvia";2005;1;;Muu;"jazz, jazz-pop, funk, fusion, disco";;woman;
+;LA11;band-384;;Tartu;2009;4;;;groove/death metal;;man;
+;LA11;band-385;;"Latvia, Riga";2010;8;;Eksperimentaalne;Post-Rock;;other;
+;LA11;band-386;;Narva;2009;1;;Metal;Thrash;;"";
+;VA13;band-386;;Narva;2009;1;;Metal;Thrash;;"";
+;LA11;band-387;;tallinn;2008;9;;Rock;Alternatiivne;;man;
+;LA11;band-388;;"Riga, Latvia";2010;8;;;Post-hardcore/electronica;;man;LV
+;LA11;band-389;;"";"";"";;;"";;"";
+;LA11;band-390;;Latvija;2006;"";;Metal;"";;"";LV
+;LA11;band-391;;Tallinn;2009;"";;Rock;"";;woman;
+;LA11;band-392;;Stockholm;1997;"";;Rock;"Classic Rock, Psychedelic";;"";
+;LA11;band-393;;Tartu;2010;"";;;Haigism;;womanandman;
+;LA11;band-394;;"Helsinki, Finland";2007;10;;Punk;Punkrock;;man;FI
+;LA11;band-395;;Tartu;2009;10;;Rock;"";;"";
+;LA11;band-396;;Tartu;2010;9;;;D-beat/Hardcore/Crust Punk Doom'i ja Sludge'i elementidega;;man;
+;VA15;band-396;;Tartu;2010;9;;;D-beat/Hardcore/Crust Punk Doom'i ja Sludge'i elementidega;;man;
+;LA11;band-397;;"Riga, Latvia";2008;11;;Metal;Alternative Experimental Metal;;man;LV
+;LA11;band-398;;"";"";"";;;"";;"";
+;LA11;band-399;;Kouvola;2006;"";;;progressive hard rock pop;;man;FI
+;LA11;band-400;;"";"";"";;;"";;"";
+;VA13;band-401;;Tartu;2012;2;;Folk;Naiivne indie-folk;;"";EE
+;VA13;band-402;;Pärnu;2011;9;;;"";;"";
+;VA13;band-403;;Tartu;2011;8;;Rock;rock n' roll;;woman;EE
+;VA13;band-405;;Viljandi/Tartu;2011;11;;;"";;man;
+;VA13;band-406;;"";"";"";;;"";;"";EE
+;VA13;band-407;;Tartu;2010;11;;Punk;Punk-Rock;;man;
+;VA13;band-408;;Tartu;2005;1;;Metal;True Indie Black Metall;;"";
+;VA13;band-409;;Tallinn;2011;10;;;Instrumentaalne sünt post-rock;;other;EE
+;VA14;band-409;;Tallinn;2011;10;;;Instrumentaalne sünt post-rock;;other;EE
+;VA15;band-409;;Tallinn;2011;10;;;Instrumentaalne sünt post-rock;;other;EE
+;VA13;band-410;;Pärnu;2011;11;;Rock;Alternatiiv;;man;
+;VA13;band-411;;Tallinn;2012;6;;Rock;Blues- Rock;;"";
+;VA13;band-412;;"Haapsalu, Noarootsi";2012;4;;Folk;Indie Folk;;man;
+;VA13;band-413;;Tallinn;2008;7;;Metal;Groove Metal;;womanandman;EE
+;VA13;band-414;;Tallinn;2011;2;;;Electro-Punk;;womanandman;
+;VA15;band-414;;Tallinn;2011;2;;;Electro-Punk;;womanandman;
+;VA13;band-415;;Tartu linn;2012;"0";;Muu;Stoner blues;;other;
+;VA13;band-416;;Tallinn;2012;1;;Rock;Alternative/Indie;;womanandman;
+;VA13;band-418;;Tõrva;2001;7;;Rock;Rock/metal;;man;
+;VA14;band-418;;Tõrva;2001;7;;Rock;Rock/metal;;man;
+;VA13;band-419;;Vasalemma- Keila- Tallinn;2012;2;;Rock;"";;man;EE
+;VA14;band-420;;Tallinn;2013;3;;;PopRock;;womanandman;EE
+;VA15;band-420;;Tallinn;2013;3;;;PopRock;;womanandman;EE
+;VA14;band-421;;"";"";"";;;"";;"";
+;VA14;band-422;;Tallinn;2011;"";;;Drunk'N'Roll;;man;EE
+;VA14;band-423;;Valga;2010;10;;Metal;Heavy Metal;;man;
+;VA14;band-424;;Tallinn;"";"";;Rock;Hard Rock;;man;
+;VA15;band-424;;Tallinn;"";"";;Rock;Hard Rock;;man;
+;VA14;band-425;;"";"";"";;;"";;"";EE
+;VA14;band-426;;Tallinn;"";"";;Rock;Blues- Rock fusion;;"";
+;VA14;band-427;;Tartu;2010;"";;Rock;Pop-Rock;;man;
+;VA14;band-428;;Tallinn;2011;"";;Metal;New Heavy Metal;;man;
+;VA14;band-429;;"Eesti, Kanada";2012;9;;;Instrumentaalne;1;other;
+;VA14;band-430;;Tartu;2013;8;;Rock;"";;woman;
+;VA14;band-431;;Viljandi;2012;"";;;melancholic indie rock;;man;
+;VA14;band-432;;Tallinn/Pärnu;2013;"0";;Muu;"Neofolk, Noirjazz";;woman;
+;VA14;band-433;;Tallinn;2013;"";;Punk;"";;man;
+;VA14;band-434;;Tallinn;2013;2;;Rock;"";;womanandman;""
+;VA14;band-435;;"";"";"";;;"";;"";
+;VA14;band-436;;"";"";"";;;"";;"";
+;VA14;band-437;;tartu;2003;7;;Punk;kristlik agro punk;;man;
+;VA15;band-438;;Finland;2012;8;;;Rock / Ska / Funk;;man;
+;VA15;band-439;;Tartu;2011;9;;Metal;hardcore/groove metal;;man;
+;VA15;band-441;;Pärnu;"";"";;Rock;"";;"";
+;VA15;band-442;;Helsinki;2010;"0";;Punk;"";;man;
+;VA15;band-443;;"";"";"";;;"";;"";
+;VA15;band-444;;Tallinn;2007;"";;Muu;Hard Rock;;man;
+;VA15;band-445;;Tallinn;1996;5;;Punk;Jazzprogepunk;;man;
