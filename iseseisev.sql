@@ -20,7 +20,7 @@ WHERE b.status="active";
 DROP view if exists la07;
 CREATE view la07 as SELECT 
 1 as "registered"
-, valitud as "selected"
+, if(valitud, 1, null) as "selected"
 , REPLACE(bandinimi, '\\', '') as name
 ,kodukoht as place
 ,tegutsemisiga as activesincetext
@@ -111,6 +111,7 @@ b.nonmusical,
 b.place, 
 b.activesinceyear,
 b.activesincemonth,
+null as activesincetext,
 (SELECT value FROM classifierlang WHERE classifier=b.style AND lang='et') as style,
 b.stylespecify,
 b.unplugged,
