@@ -1,4 +1,4 @@
-mpg           ;cylinders     ;displace      ;horsepower    ;weight        ;origin        ;make        ;model       ;price ($)        ;
+mpg           ;cylinders     ;displace      ;horsepower    ;weight        ;origin        ;make        ;model       ;price        ;
 20;4;147;106;3340;3;Nissan      ;Van         ;16094;
 29;4;98;90;2241;3;Nissan      ;Sentra      ;9769;
 25;4;121;97;2780;3;Nissan      ;Stanza      ;12949;
