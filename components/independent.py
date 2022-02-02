@@ -6,7 +6,7 @@ import re
 
 rYearsInt = re.compile("(\d+)\.?(a|aastat|year|years)")
 rYearsFfoat = re.compile("^u?\.?\s?(\d)[,\.](\d)(\s|\.)?(a|aastat)\.?$")
-rMonths = re.compile("(\d+)\.?kuud")
+rMonths = re.compile("(\d\d?)\.?kuud")
 rYear = re.compile("20\d\d|19\d\d")
 rEventYear = re.compile("\d\d$")
 rPlainInt = re.compile("^\d\d?$")
@@ -48,16 +48,24 @@ map = {
 
 def transform_age(event, activesinceyear, activesincemonth, activesincetext):
     if isnan(activesinceyear) == False:
-
+        y = rEventYear.search(event)
+        years = int('20' + y.group(0)) - activesinceyear
         if isnan(activesincemonth) == False:
-            return activesinceyear + activesincemonth/12
-        return activesinceyear
+            return years + activesincemonth/12
+        return years
 
     if isnull(activesincetext) == True:
         return NaN
 
     activesincetext = activesincetext.strip().replace("üle", '')
     activesincetext = rCleanup.sub('', activesincetext)
+
+    # full yar
+    x = rYear.search(activesincetext)
+    if x:
+        y = rEventYear.search(event)
+
+        return int('20' + y.group(0)) - int(x.group(0))
 
     # plain number
     x = rPlainInt.match(activesincetext)
@@ -83,11 +91,5 @@ def transform_age(event, activesinceyear, activesincemonth, activesincetext):
         activesincetext = map[activesincetext]
         if isinstance(activesincetext, str) == False:
             return activesincetext
-
-    x = rYear.search(activesincetext)
-    if x:
-        y = rEventYear.search(event)
-
-        return int('20' + y.group(0)) - int(x.group(0))
 
     return NaN
