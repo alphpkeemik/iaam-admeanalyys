@@ -73,6 +73,8 @@ mean = st.expon.interval(
 # print(mean)
 
 print('Normal distribution, trust level 99%:')
+# vähendasime lubatud riski (95%->99%), suurendasime usaldusnivood
+# usalduspiirkond läks suuremaks
 mean = st.t.interval(
     alpha=0.99, df=weight.size-1,
     loc=weight.mean(), scale=weight.sem()
