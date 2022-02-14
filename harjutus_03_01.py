@@ -19,7 +19,7 @@ print(weight.std())
 # vahemikhinnang
 
 print('Normal distribution:')
-
+# https://se.mathworks.com/help/stats/prob.normaldistribution.html
 mean = st.t.interval(
     alpha=0.95, df=weight.size-1,
     loc=weight.mean(), scale=weight.sem()
@@ -62,6 +62,8 @@ print("   sigma = %.3f [%.3f, %.3f]" %
       )
 
 print('')
+# https://se.mathworks.com/help/stats/prob.exponentialdistribution.html
+# exponential distribution confidence interval
 print('Expontial distribution:')
 # this is not as example values 2340.26, 3549,9 from matlab fitdist(data, 'exp')
 mean = st.expon.interval(
@@ -69,3 +71,22 @@ mean = st.expon.interval(
     loc=weight.mean(), scale=weight.sem()
 )
 # print(mean)
+
+print('Normal distribution, trust level 99%:')
+mean = st.t.interval(
+    alpha=0.99, df=weight.size-1,
+    loc=weight.mean(), scale=weight.sem()
+)
+print("      %.2f, %.2f" %
+      (mean[0], mean[1])
+      )
+alpha = 0.01
+
+# https://www.graphpad.com/support/faq/the-confidence-interval-of-a-standard-deviation/
+lowerLimit = SD*math.sqrt((N-1)/CHISQINV(1-(alpha/2), N-1))
+upperLimit = SD*math.sqrt((N-1)/CHISQINV((alpha/2), N-1))
+
+# sigma σ - statndardhälve
+print("      %.3f, %.3f" %
+      (lowerLimit, upperLimit)
+      )
