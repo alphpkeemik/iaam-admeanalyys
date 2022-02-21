@@ -1,20 +1,11 @@
-import matplotlib.pyplot as plt
-from numpy import NAN
+#!/usr/bin/env python3
+
 import pandas as pd
-import mplcursors
+from components.independent import transform_age, transform_style
 
-from components.independent import transform_age
-
-df = pd.read_csv('iseseisev.csv', delimiter=';')
-
-
-# püüaks vaadata kas on seos artisti esinema saamisega
-# * vanusel (activesinceyear+activesincemonth - event number, va veebruaris, La juuli) ja
-# * stiiilil (style    stylespecify)
-# * kas on unplugged
-# * kas on naislaulja singer
-# * registration_country - peaks olema, sest reeglina välisartiste me kutsusime
-
+inputFile = '/mnt/c/IAAM/ICM0031 Andmeanalüüs/iseseisev töö normaliseerimata andmed.csv'
+outputFile = '/mnt/c/IAAM/ICM0031 Andmeanalüüs/iseseisev töö normaliseeritud andmed.csv'
+df = pd.read_csv(inputFile, delimiter=';')
 
 new = []
 iterate = df.iterrows()
@@ -22,37 +13,51 @@ for i, r in df.iterrows():
     age = transform_age(r.event, r.activesinceyear,
                         r.activesincemonth, r.activesincetext)
     new.append(age)
-df['age'] = new
+df['vanus'] = new
+
+new = []
+iterate = df.iterrows()
+for i, r in df.iterrows():
+    style = transform_style(r.style, r.stylespecify)
+    new.append(style)
+df['stiil'] = new
 
 df['selected'] = df['selected'].transform(
-    lambda x: 'yes' if x == 1 else 'no'
+    lambda x: 'jah' if x == 1 else 'ei'
 )
 
-df = df[df['age']>0]
-df.boxplot(column='age', by='selected')
-ax = plt.subplot(111)
-#ax.set_ylabel('age', loc='bottom')
-# anntoations
+
+def transform(singer):
+    if singer == 'woman':
+        return 2
+    if singer == 'womanandman':
+        return 2
+    if singer == 'other':
+        return 1
+    if singer == 'man':
+        return 1
+df['singer'] = df['singer'].transform(transform)
+
+df['event'] = df['event'].transform(
+    lambda x: '20' + x[2:2]
+)
+
+# nimeta väljad inimloetavamaks
+df = df.rename(columns={
+    'selected':   'valitud esinema',
+    'event': 'sündmuse aasta',
+    'name': 'artisti nimi',
+    'place': 'artisti kodukoht',
+    'activesinceyear': 'alustamise aasta',
+    'activesincemonth': 'alustamise kuu',
+    'activesinceyear': 'vanus tekstina',
+    'style': 'stiil klassifikaator',
+    'stylespecify': 'stiil tekstina',
+    'singer': 'laulja kaal',
+    'registration_country': 'IP riik',
+}, errors="raise")
+
+df.drop(columns=['unplugged'])  # ei kasuta hetkel
 
 
-def showLabel(sel):
-    value = df[df['age'] == sel.target[1]][[
-        'id', 'age', 'event',
-        'activesinceyear',
-        'activesincemonth',
-        'activesincetext',
-    ]]
-    if value.size:
-        sel.annotation.set_text(
-            'Point {}'.format(value)
-        )
-    else:
-        sel.annotation.set_text(
-            'Value {}'.format(sel.target[1].round(2))
-        )
-
-
-mplcursors.cursor(hover=True)
-crs = mplcursors.cursor(hover=True)
-crs.connect("add", showLabel)
-plt.show()
+df.to_csv(outputFile, sep=',', compression=None)
