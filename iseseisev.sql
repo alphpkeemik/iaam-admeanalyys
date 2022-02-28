@@ -13,10 +13,13 @@ FROM (
                 WHEN 'LATVIA' THEN "LV"
                 WHEN 'SWEDEN' THEN "SE"
                 WHEN 'FINLAND' THEN "FI"
+                WHEN 'MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF' THEN "MK"
                 ELSE riik
             END AS country
         FROM la_ip_riik
     ) t;
+DELETE FROM `la_ip_riik` WHERE `riik` = 'unkown';
+    
 -- 2007
 DROP VIEW IF EXISTS la07;
 CREATE view la07 AS SELECT 1 AS "registered",
@@ -94,7 +97,8 @@ CREATE VIEW selected_data AS SELECT a.selected,
         WHERE ipcountry.ip = a.ip
             or ipcountry.ip = b.ip
         LIMIT 1
-    ) AS "registration_country"
+    ) AS "registration_country",
+    if(a.ip, a.ip, b.ip) AS "ip"
 FROM la07 a
     LEFT JOIN band b ON b.name = a.name
 WHERE a.name != 'KukeProtest'
@@ -126,7 +130,8 @@ SELECT a.selected,
         WHERE ipcountry.ip = a.ip
             or ipcountry.ip = b.ip
         LIMIT 1
-    ) AS "registration_country"
+    ) AS "registration_country",
+    if(a.ip, a.ip, b.ip) AS "ip"
 FROM la08_and_la09 a
     LEFT JOIN band b ON b.name = a.name
 WHERE a.name != 'KukeProtest'
@@ -153,11 +158,13 @@ SELECT e.selected,
         FROM iplocation
         WHERE iplocation.ip = b.ip
         LIMIT 1
-    ) AS "registration_country"
+    ) AS "registration_country",
+    ip
 FROM band b
     JOIN bandevent e on e.band = b.id
 WHERE b.status = "active"
-    AND b.name != 'KukeProtest'
+    AND b.name not in('KukeProtest', 'Mati Test bänd')
     AND e.event != ''
     AND e.registered = 1
-    AND e.event LIKE 'LA%';
+    AND e.event LIKE 'LA%'
+    AND e.event != 'LA11';

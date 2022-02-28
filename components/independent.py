@@ -1,9 +1,11 @@
 
 from cmath import isnan
+import json
 from pickle import POP
 from numpy import NaN
 from pandas import isnull
 import re
+import requests
 
 rYearsInt = re.compile("(\d+)\.?(a|aastat|year|years)")
 rYearsFfoat = re.compile("^u?\.?\s?(\d)[,\.](\d)(\s|\.)?(a|aastat)\.?$")
@@ -105,7 +107,7 @@ POPP = "Popp"
 ELEKTROONILINE = "Elektrooniline"
 EKSPERIMENTAALNE = "Eksperimentaalne"
 JAZZ = "Jazz"
-HIP_HOP = "Hip Hop"
+HIP_HOP = "HipHop"
 
 
 styleMap = {
@@ -147,7 +149,7 @@ styleMap = {
     "Alternative punkrock": EKSPERIMENTAALNE,
     "Melodic Deathcore": MUU,
     "Rock/psühhedeelia/punk": ROCK,
-    "funk/ska/pop": POP,
+    "funk/ska/pop": POPP,
     "Triprock": ROCK,
     "stoner": MUU,
     "Alternative Punk": PUNK,
@@ -206,10 +208,71 @@ styleMap = {
 
 
 def transform_style(style, stylespecify):
-    if style:
+    if style == 'Hip Hop':
+        return HIP_HOP
+    if isnull(style) == False:
         return style
 
     if stylespecify in styleMap:
         return styleMap[stylespecify]
 
-    return NaN
+    return 'stiil_m22ramata'
+
+
+ipMapFilePath = './data/ipdata.json'
+ipMapFile = open(ipMapFilePath)
+ipMap = json.load(ipMapFile)
+
+bandCountry = {
+    "The Lost Highway": "EE",
+    "Canis Lupus": "EE",
+    "die moritz": "EE",
+    "Pimpfish": "EE",
+    "Taak": "EE",
+    "Vaiko Eplik ja Eliit": "EE",
+    "Vespera": "US",
+    "Aides": "EE",
+    "Mikk ja Marko": "EE",
+    "Dr. Hell Hambaravi": "EE",
+    "Adjusted": "EE",
+    "Bird People": "SE",
+    "The Happs'": "LV",
+    "The Flowers of Romance": "EE",
+    "Ambrosia": "LV",
+    "Tarkmeenia": "EE",
+    "LEEK": "EE",
+    "Boom Truck": "EE",
+    "Johnny masturbates in yellow bed": "EE",
+    "Edgar Poe's Favorite Cat": "EE",
+    "Talisman": "EE",
+    "Under Wunder": "EE",
+}
+
+
+def transform_country(country, ip, place, name):
+
+    if name in bandCountry:
+        return bandCountry[name]
+    if country == 'RD':
+        return 'EE'
+
+    if isnull(country) == False:
+        return country
+
+    if isnull(ip) == False:
+        if ip in ipMap:
+            if isnull(ipMap[ip]) == False:
+                return ipMap[ip]
+        else:
+            print(ip)
+            url = 'http://ip-api.com/json/' + ip
+            resp = requests.get(url=url)
+            data = resp.json()
+
+            ipMap[ip] = data.get('countryCode')
+
+            with open(ipMapFilePath, "w") as outfile:
+                json.dump(ipMap, outfile)
+    if place in ('Tallinn', 'Kallaste', 'TAL'):
+        return 'EE'
+    return 'riik_teadmata'
